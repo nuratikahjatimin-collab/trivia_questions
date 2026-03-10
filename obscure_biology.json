@@ -1,0 +1,418 @@
+[
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal can survive being frozen and then thawed?","ms":"Haiwan manakah yang boleh hidup selepas dibekukan dan dicairkan semula?"},
+    "answers": [{"en":"Frog","ms":"Katak"},{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Elephant","ms":"Gajah"},{"en":"Shark","ms":"Hiu"}],
+    "correctIndex": 1,
+    "funFact": {"en":"Tardigrades survive extreme cold and heat.","ms":"Tardigrade hidup dalam sejuk dan panas luar biasa."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"What is the only mammal capable of true flight?","ms":"Mamalia manakah satu-satunya yang mampu terbang sebenar?"},
+    "answers": [{"en":"Bat","ms":"Kelawar"},{"en":"Flying Squirrel","ms":"Tupai Terbang"},{"en":"Eagle","ms":"Helang"},{"en":"Hummingbird","ms":"Burung Hummingbird"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Bats are the only mammals that can sustain flight.","ms":"Kelawar satu-satunya mamalia yang terbang berterusan."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which plant traps insects for nutrition?","ms":"Tumbuhan manakah yang menangkap serangga untuk nutrisi?"},
+    "answers": [{"en":"Venus Flytrap","ms":"Venus Flytrap"},{"en":"Sunflower","ms":"Bunga Matahari"},{"en":"Oak","ms":"Pokok Oak"},{"en":"Bamboo","ms":"Buluh"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Venus Flytraps digest insects to supplement poor soil nutrients.","ms":"Venus Flytrap cerna serangga untuk tambah nutrien tanah."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"What organism is called the 'immortal' one?","ms":"Organisma manakah yang disebut sebagai 'abadi'?"},
+    "answers": [{"en":"Jellyfish Turritopsis dohrnii","ms":"Ubur-ubur Turritopsis dohrnii"},{"en":"Hydra","ms":"Hydra"},{"en":"Planarian","ms":"Planaria"},{"en":"Starfish","ms":"Bintang Laut"}],
+    "correctIndex": 0,
+    "funFact": {"en":"It can revert its cells to an earlier stage.","ms":"Ia boleh kembali sel ke peringkat awal."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which insect can survive decapitation for days?","ms":"Serangga manakah boleh hidup tanpa kepala beberapa hari?"},
+    "answers": [{"en":"Cockroach","ms":"Lipeng"},{"en":"Ant","ms":"Semut"},{"en":"Grasshopper","ms":"Belalang"},{"en":"Dragonfly","ms":"Capung"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Cockroaches live weeks without a head.","ms":"Lipeng hidup berminggu tanpa kepala."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal has blue blood?","ms":"Haiwan manakah yang mempunyai darah biru?"},
+    "answers": [{"en":"Horseshoe Crab","ms":"Ketam Tapal Kuda"},{"en":"Octopus","ms":"Gurita"},{"en":"Shark","ms":"Hiu"},{"en":"Crocodile","ms":"Buaya"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Their blood is copper‑based, blue in color.","ms":"Darahnya berasaskan kuprum, berwarna biru."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which bird can mimic human speech?","ms":"Burung manakah boleh meniru pertuturan manusia?"},
+    "answers": [{"en":"Parrot","ms":"Burung Kakak Tua"},{"en":"Crow","ms":"Gagak"},{"en":"Eagle","ms":"Helang"},{"en":"Swan","ms":"Angsa"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Parrots use syrinx muscles to mimic sounds.","ms":"Burung kakak tua guna otot syrinx untuk suara."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal lays the largest eggs?","ms":"Haiwan manakah bertelur paling besar?"},
+    "answers": [{"en":"Ostrich","ms":"Burung Unta"},{"en":"Eagle","ms":"Helang"},{"en":"Turtle","ms":"Kura-kura"},{"en":"Penguin","ms":"Penguin"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Ostrich eggs weigh up to 1.5 kg.","ms":"Telur unta berat hingga 1.5 kg."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal can taste with its feet?","ms":"Haiwan manakah boleh merasa rasa dengan kaki?"},
+    "answers": [{"en":"Butterfly","ms":"Kupu‑kupu"},{"en":"Frog","ms":"Katak"},{"en":"Cat","ms":"Kucing"},{"en":"Lizard","ms":"Cicak"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Butterflies taste nectar with sensors on feet.","ms":"Kupu‑kupu rasa nektar dengan deria di kaki."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which microorganism is used to make bread?","ms":"Mikroorganisma manakah digunakan untuk buat roti?"},
+    "answers": [{"en":"Yeast","ms":"Yis"},{"en":"Bacteria","ms":"Bakteria"},{"en":"Algae","ms":"Alga"},{"en":"Mold","ms":"Kulat Acuan"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Yeast ferments sugars to make CO₂.","ms":"Yis menapai gula untuk hasilkan CO₂."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"What is the smallest bone in the human body?","ms":"Apakah tulang terkecil dalam tubuh manusia?"},
+    "answers": [{"en":"Stapes","ms":"Stapes"},{"en":"Femur","ms":"Femur"},{"en":"Incus","ms":"Incus"},{"en":"Tibia","ms":"Tibia"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Stapes helps transmit sound in the ear.","ms":"Stapes membantu hantar bunyi di telinga."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"What plant ejects its seeds explosively?","ms":"Tumbuhan manakah yang menembak biji secara letupan?"},
+    "answers": [{"en":"Touch‑me‑not","ms":"Biji Meletup"},{"en":"Rose","ms":"Ros"},{"en":"Grass","ms":"Rumput"},{"en":"Cactus","ms":"Kaktus"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Seeds shoot out when pods burst.","ms":"Biji keluar ketika polong meletup."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"What type of symmetry do starfish have?","ms":"Jenis simetri apa yang dimiliki bintang laut?"},
+    "answers": [{"en":"Radial","ms":"Radial"},{"en":"Bilateral","ms":"Bilateral"},{"en":"Asymmetrical","ms":"Asimetrik"},{"en":"Spherical","ms":"Sfera"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Radial symmetry helps starfish sense in all directions.","ms":"Simetri radial membantu bintang laut rasa semua arah."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which animal uses electric fields to navigate?","ms":"Haiwan manakah guna medan elektrik untuk navigasi?"},
+    "answers": [{"en":"Electric Eel","ms":"Ikan Listrik"},{"en":"Bat","ms":"Kelawar"},{"en":"Catfish","ms":"Ikan Lele"},{"en":"Shark","ms":"Hiu"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Electric eels generate fields to sense prey.","ms":"Ikan listrik hasilkan medan untuk kesan mangsa."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which creature has a decentralized nervous system?","ms":"Organisma manakah mempunyai sistem saraf tidak berpusat?"},
+    "answers": [{"en":"Jellyfish","ms":"Ubur‑ubur"},{"en":"Human","ms":"Manusia"},{"en":"Dog","ms":"Anjing"},{"en":"Ant","ms":"Semut"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Jellyfish rely on nerve nets, not a brain.","ms":"Ubur‑ubur guna saraf bersih, bukan otak."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which plant moves rapidly when touched?","ms":"Tumbuhan manakah bergerak cepat apabila disentuh?"},
+    "answers": [{"en":"Mimosa pudica","ms":"Mimosa pudica"},{"en":"Oak","ms":"Pokok Oak"},{"en":"Fern","ms":"Paku"},{"en":"Pine","ms":"Pain"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Mimosa folds leaves to deter predators.","ms":"Mimosa lipat daun untuk halang pemangsa."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which amphibian can survive complete dehydration?","ms":"Amfibia manakah yang boleh hidup sepenuhnya tanpa air?"},
+    "answers": [{"en":"African Lungfish","ms":"Ikan Paru Afrika"},{"en":"Frog","ms":"Katak"},{"en":"Salamander","ms":"Salamander"},{"en":"Toad","ms":"Katak Tembam"}],
+    "correctIndex": 0,
+    "funFact": {"en":"They can survive years in dried state and revive when water returns.","ms":"Boleh hidup bertahun-tahun dalam keadaan kering dan kembali hidup apabila air muncul."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal can regrow its lost body parts?","ms":"Haiwan manakah yang boleh menumbuhkan semula bahagian badan yang hilang?"},
+    "answers": [{"en":"Starfish","ms":"Bintang Laut"},{"en":"Cat","ms":"Kucing"},{"en":"Dog","ms":"Anjing"},{"en":"Horse","ms":"Kuda"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Starfish can regenerate arms if damaged or lost.","ms":"Bintang laut boleh menumbuhkan semula lengan jika rosak atau hilang."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal’s blood is green due to copper compounds?","ms":"Darah haiwan manakah berwarna hijau kerana sebatian kuprum?"},
+    "answers": [{"en":"Green Octopus","ms":"Gurita Hijau"},{"en":"Crab","ms":"Ketam"},{"en":"Grasshopper","ms":"Belalang"},{"en":"Frog","ms":"Katak"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Some octopuses have greenish blood because of copper-based hemocyanin.","ms":"Sesetengah gurita mempunyai darah kehijauan kerana hemocyanin berasaskan kuprum."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which insect can survive underwater for weeks?","ms":"Serangga manakah yang boleh hidup di bawah air selama beberapa minggu?"},
+    "answers": [{"en":"Water Beetle","ms":"Kepik Air"},{"en":"Ant","ms":"Semut"},{"en":"Beetle","ms":"Kumbang"},{"en":"Dragonfly","ms":"Capung"}],
+    "correctIndex": 0,
+    "funFact": {"en":"They trap air under their wings to breathe underwater for weeks.","ms":"Menjerat udara di bawah sayap untuk bernafas di bawah air."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which bird migrates the longest distance?","ms":"Burung manakah yang berhijrah jarak paling jauh?"},
+    "answers": [{"en":"Arctic Tern","ms":"Burung Tern Artik"},{"en":"Swan","ms":"Angsa"},{"en":"Eagle","ms":"Helang"},{"en":"Albatross","ms":"Albatros"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Arctic Terns travel about 70,000 km per year.","ms":"Burung Tern Artik terbang kira-kira 70,000 km setahun."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal has the fastest heartbeat?","ms":"Haiwan manakah yang mempunyai degupan jantung paling cepat?"},
+    "answers": [{"en":"Hummingbird","ms":"Burung Hummingbird"},{"en":"Mouse","ms":"Tikus"},{"en":"Rabbit","ms":"Arnab"},{"en":"Cat","ms":"Kucing"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Hummingbirds can beat their heart up to 1,260 times per minute.","ms":"Hummingbird boleh degup jantung sehingga 1,260 kali per minit."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal has the longest tongue relative to its body?","ms":"Haiwan manakah yang mempunyai lidah paling panjang berbanding badan?"},
+    "answers": [{"en":"Chameleon","ms":"Chameleon"},{"en":"Frog","ms":"Katak"},{"en":"Anteater","ms":"Semut Eater"},{"en":"Giraffe","ms":"Zirafah"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Chameleons can extend their tongue longer than their body length to catch prey.","ms":"Chameleon boleh hulurkan lidah lebih panjang dari badan untuk tangkap mangsa."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal can survive in the vacuum of space?","ms":"Haiwan manakah yang boleh hidup dalam vakum angkasa?"},
+    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Cat","ms":"Kucing"},{"en":"Dog","ms":"Anjing"},{"en":"Mouse","ms":"Tikus"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Tardigrades can survive extreme radiation, vacuum, and temperatures.","ms":"Tardigrade boleh hidup dalam radiasi, vakum, dan suhu ekstrem."},
+    "active": true
+  },
+  {
+    "difficulty": "Easy",
+    "question": {"en":"Which animal is known for the most powerful bite force?","ms":"Haiwan manakah yang terkenal dengan daya gigitan paling kuat?"},
+    "answers": [{"en":"Crocodile","ms":"Buaya"},{"en":"Lion","ms":"Singa"},{"en":"Shark","ms":"Hiu"},{"en":"Hyena","ms":"Hyena"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Saltwater crocodiles can bite with over 3,500 pounds of force.","ms":"Buaya air masin boleh menggigit lebih 3,500 paun tekanan."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which amphibian produces tetrodotoxin as a defense?","ms":"Amfibia manakah menghasilkan tetrodotoksin untuk pertahanan?"},
+    "answers": [{"en":"Rough-skinned Newt","ms":"Newt Kulit Kasar"},{"en":"Frog","ms":"Katak"},{"en":"Salamander","ms":"Salamander"},{"en":"Toad","ms":"Katak Tembam"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Tetrodotoxin is a potent neurotoxin used to deter predators.","ms":"Tetrodotoksin ialah neurotoksin kuat untuk menghalang pemangsa."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which animal can survive being decapitated and continue moving?","ms":"Haiwan manakah boleh hidup tanpa kepala dan terus bergerak?"},
+    "answers": [{"en":"Cockroach","ms":"Lipeng"},{"en":"Spider","ms":"Labah-labah"},{"en":"Lizard","ms":"Cicak"},{"en":"Centipede","ms":"Lipan"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Cockroaches have decentralized nerves that allow movement after decapitation.","ms":"Lipeng mempunyai saraf tidak berpusat membolehkan gerakan selepas dipenggal kepala."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which sea creature can clone itself by fragmentation?","ms":"Haiwan laut manakah boleh menyalin dirinya melalui pemecahan?"},
+    "answers": [{"en":"Starfish","ms":"Bintang Laut"},{"en":"Sea Cucumber","ms":"Timun Laut"},{"en":"Coral","ms":"Terumbu Karang"},{"en":"Sea Anemone","ms":"Anemon Laut"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Starfish can regenerate entire body parts through fragmentation.","ms":"Bintang laut boleh menumbuhkan semula bahagian badan melalui pemecahan."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which animal has the fastest nerve conduction?","ms":"Haiwan manakah mempunyai penghantaran saraf terpantas?"},
+    "answers": [{"en":"Squid","ms":"Sotong"},{"en":"Cat","ms":"Kucing"},{"en":"Human","ms":"Manusia"},{"en":"Frog","ms":"Katak"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Giant axons in squid allow rapid nerve signaling.","ms":"Axon gergasi sotong membolehkan isyarat saraf cepat."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which bird has the largest wingspan?","ms":"Burung manakah mempunyai julat sayap paling besar?"},
+    "answers": [{"en":"Wandering Albatross","ms":"Albatros Pengembara"},{"en":"Eagle","ms":"Helang"},{"en":"Condor","ms":"Condor"},{"en":"Pelican","ms":"Pelikan"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Its wingspan can reach up to 3.5 meters.","ms":"Julat sayap boleh mencecah 3.5 meter."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which plant is carnivorous and grows in nutrient-poor soil?","ms":"Tumbuhan manakah yang karnivor dan hidup di tanah miskin nutrien?"},
+    "answers": [{"en":"Pitcher Plant","ms":"Tumbuhan Pitcher"},{"en":"Sunflower","ms":"Bunga Matahari"},{"en":"Fern","ms":"Paku"},{"en":"Moss","ms":"Lumut"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Pitcher plants trap insects to gain nitrogen.","ms":"Tumbuhan Pitcher perangkap serangga untuk dapatkan nitrogen."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which animal is known for 'immortal' regeneration?","ms":"Haiwan manakah terkenal dengan penjanaan semula 'abadi'?"},
+    "answers": [{"en":"Hydra","ms":"Hydra"},{"en":"Planaria","ms":"Planaria"},{"en":"Starfish","ms":"Bintang Laut"},{"en":"Jellyfish","ms":"Ubur-ubur"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Hydra can reproduce asexually and regenerate indefinitely.","ms":"Hydra boleh membiak secara aseksual dan menumbuhkan semula tanpa had."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which animal can survive freezing temperatures for years?","ms":"Haiwan manakah boleh hidup dalam suhu beku bertahun-tahun?"},
+    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Frog","ms":"Katak"},{"en":"Salamander","ms":"Salamander"},{"en":"Ant","ms":"Semut"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Tardigrades can survive desiccation and freezing for years.","ms":"Tardigrade boleh hidup dalam kering dan beku bertahun-tahun."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which microorganism can survive in nuclear reactors?","ms":"Mikroorganisma manakah yang boleh hidup di reaktor nuklear?"},
+    "answers": [{"en":"Deinococcus radiodurans","ms":"Deinococcus radiodurans"},{"en":"E. coli","ms":"E. coli"},{"en":"Yeast","ms":"Yis"},{"en":"Amoeba","ms":"Amuba"}],
+    "correctIndex": 0,
+    "funFact": {"en":"It can survive extreme radiation doses that would kill humans.","ms":"Ia boleh hidup dalam radiasi ekstrem yang membunuh manusia."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which plant can survive complete immersion in saltwater?","ms":"Tumbuhan manakah boleh hidup sepenuhnya dalam air masin?"},
+    "answers": [{"en":"Mangrove","ms":"Bakau"},{"en":"Rice","ms":"Padi"},{"en":"Cactus","ms":"Kaktus"},{"en":"Algae","ms":"Alga"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Mangroves excrete salt through leaves and roots.","ms":"Bakau mengeluarkan garam melalui daun dan akar."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which animal can survive without oxygen for months?","ms":"Haiwan manakah boleh hidup tanpa oksigen selama berbulan-bulan?"},
+    "answers": [{"en":"Brine Shrimp Cysts","ms":"Kista Udang Garam"},{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Nematode","ms":"Nematod"},{"en":"Frog","ms":"Katak"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Brine shrimp embryos enter cryptobiosis until conditions improve.","ms":"Embrio udang garam masuk keadaan kriptobiosis sehingga keadaan membaik."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which fungus can survive in space?","ms":"Kulat manakah yang boleh hidup di angkasa?"},
+    "answers": [{"en":"Aspergillus","ms":"Aspergillus"},{"en":"Penicillium","ms":"Penicillium"},{"en":"Saccharomyces","ms":"Saccharomyces"},{"en":"Rhizopus","ms":"Rhizopus"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Certain Aspergillus strains endure radiation and vacuum in space.","ms":"Sesetengah strain Aspergillus tahan radiasi dan vakum di angkasa."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which animal exhibits biological immortality through reverting its cells?","ms":"Haiwan manakah menunjukkan keabadian biologi dengan mengembalikan selnya?"}, 
+    "answers": [{"en":"Turritopsis dohrnii","ms":"Turritopsis dohrnii"},{"en":"Hydra","ms":"Hydra"},{"en":"Planarian","ms":"Planaria"},{"en":"Starfish","ms":"Bintang Laut"}],
+    "correctIndex": 0,
+    "funFact": {"en":"It can revert mature cells to a younger state repeatedly.","ms":"Ia boleh mengembalikan sel matang ke keadaan muda berulang kali."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which microorganism can metabolize radioactive material?","ms":"Mikroorganisma manakah yang boleh metabolisme bahan radioaktif?"},
+    "answers": [{"en":"Chernobyl Fungus","ms":"Kulat Chernobyl"},{"en":"E. coli","ms":"E. coli"},{"en":"Yeast","ms":"Yis"},{"en":"Amoeba","ms":"Amuba"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Some fungi thrive on gamma radiation in Chernobyl reactor walls.","ms":"Sesetengah kulat hidup subur dengan radiasi gamma di dinding reaktor Chernobyl."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which animal can survive both extreme heat and extreme cold?","ms":"Haiwan manakah boleh hidup dalam haba dan sejuk ekstrem?"}, 
+    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Camel","ms":"Unta"},{"en":"Penguin","ms":"Penguin"},{"en":"Desert Beetle","ms":"Kumbang Gurun"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Tardigrades survive via anhydrobiosis and cryptobiosis.","ms":"Tardigrade hidup melalui anhidrobiosis dan kriptobiosis."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which animal can survive extreme vacuum without protection?","ms":"Haiwan manakah boleh hidup dalam vakum ekstrem tanpa perlindungan?"}, 
+    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Cockroach","ms":"Lipeng"},{"en":"Ant","ms":"Semut"},{"en":"Spider","ms":"Labah-labah"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Tardigrades endure space vacuum and radiation.","ms":"Tardigrade tahan vakum angkasa dan radiasi."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which organism can survive complete dehydration for decades?","ms":"Organisma manakah boleh hidup sepenuhnya tanpa air selama beberapa dekad?"}, 
+    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Brine Shrimp","ms":"Udang Garam"},{"en":"Fungus","ms":"Kulat"},{"en":"Seed","ms":"Biji"}],
+    "correctIndex": 0,
+    "funFact": {"en":"They enter a cryptobiotic state for decades until rehydrated.","ms":"Masuk keadaan kriptobiosis selama beberapa dekad sehingga diberi air."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which bacteria can survive extreme pressure in deep ocean?","ms":"Bakteria manakah boleh hidup dalam tekanan ekstrem di lautan dalam?"}, 
+    "answers": [{"en":"Barophiles","ms":"Barofil"},{"en":"E. coli","ms":"E. coli"},{"en":"Streptococcus","ms":"Streptococcus"},{"en":"Lactobacillus","ms":"Lactobacillus"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Barophiles thrive at pressures over 1000 atmospheres.","ms":"Barofil hidup subur pada tekanan melebihi 1000 atmosfera."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which organism has the fastest known nerve impulse conduction?","ms":"Organisma manakah mempunyai penghantaran impuls saraf terpantas yang diketahui?"}, 
+    "answers": [{"en":"Giant Squid","ms":"Sotong Gergasi"},{"en":"Human","ms":"Manusia"},{"en":"Cheetah","ms":"Cheetah"},{"en":"Frog","ms":"Katak"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Giant squid axons conduct signals faster than almost any other animal.","ms":"Axon sotong gergasi hantar isyarat lebih cepat daripada hampir semua haiwan lain."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which plant can survive in total darkness for months?","ms":"Tumbuhan manakah boleh hidup dalam kegelapan total selama beberapa bulan?"}, 
+    "answers": [{"en":"Ghost Plant (Monotropa uniflora)","ms":"Tumbuhan Hantu (Monotropa uniflora)"},{"en":"Moss","ms":"Lumut"},{"en":"Fern","ms":"Paku"},{"en":"Cactus","ms":"Kaktus"}],
+    "correctIndex": 0,
+    "funFact": {"en":"It gets nutrients from fungi, not photosynthesis.","ms":"Mendapat nutrien dari kulat, bukan fotosintesis."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which organism can survive boiling and freezing repeatedly?","ms":"Organisma manakah boleh hidup mendidih dan membeku berulang kali?"}, 
+    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Yeast","ms":"Yis"},{"en":"Bacteria","ms":"Bakteria"},{"en":"Fungus","ms":"Kulat"}],
+    "correctIndex": 0,
+    "funFact": {"en":"They endure extreme temperature cycles through cryptobiosis.","ms":"Tahan kitaran suhu ekstrem melalui kriptobiosis."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which creature uses magnetic fields to navigate without eyesight?","ms":"Makhluk manakah menggunakan medan magnet untuk navigasi tanpa penglihatan?"}, 
+    "answers": [{"en":"Loggerhead Sea Turtle","ms":"Penyu Laut Loggerhead"},{"en":"Shark","ms":"Hiu"},{"en":"Bat","ms":"Kelawar"},{"en":"Salmon","ms":"Salmon"}],
+    "correctIndex": 0,
+    "funFact": {"en":"They detect Earth's magnetic field to travel across oceans.","ms":"Mereka mengesan medan magnet Bumi untuk merentas lautan."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which insect can survive complete decapitation for over a week?","ms":"Serangga manakah boleh hidup sepenuhnya tanpa kepala lebih seminggu?"}, 
+    "answers": [{"en":"Cockroach","ms":"Lipeng"},{"en":"Praying Mantis","ms":"Belalang Sembah"},{"en":"Grasshopper","ms":"Belalang"},{"en":"Beetle","ms":"Kumbang"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Their brain is mostly in the body ganglia, allowing survival.","ms":"Otak terletak kebanyakannya di ganglia badan, membolehkan hidup."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which microorganism thrives in both extreme cold and radiation?","ms":"Mikroorganisma manakah hidup subur dalam sejuk ekstrem dan radiasi?"}, 
+    "answers": [{"en":"Deinococcus radiodurans","ms":"Deinococcus radiodurans"},{"en":"E. coli","ms":"E. coli"},{"en":"Fungus","ms":"Kulat"},{"en":"Amoeba","ms":"Amuba"}],
+    "correctIndex": 0,
+    "funFact": {"en":"It is nicknamed 'Conan the Bacterium' for its toughness.","ms":"Ia digelar 'Conan Bakteria' kerana ketahanan."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which deep-sea fish can survive near boiling hydrothermal vents?","ms":"Ikan laut dalam manakah boleh hidup berhampiran ventilasi hidrotermal mendidih?"}, 
+    "answers": [{"en":"Pomfret vent fish","ms":"Ikan Pomfret Vent"},{"en":"Anglerfish","ms":"Ikan Pemancing"},{"en":"Goblin Shark","ms":"Hiu Goblin"},{"en":"Coelacanth","ms":"Coelacanth"}],
+    "correctIndex": 0,
+    "funFact": {"en":"They endure extreme heat, pressure, and sulfuric water.","ms":"Hidup dalam haba ekstrem, tekanan, dan air bersulfur."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which organism can survive complete dehydration, freezing, and radiation simultaneously?","ms":"Organisma manakah boleh hidup tanpa air, beku, dan radiasi serentak?"}, 
+    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Brine Shrimp","ms":"Udang Garam"},{"en":"Fungus","ms":"Kulat"},{"en":"Planaria","ms":"Planaria"}],
+    "correctIndex": 0,
+    "funFact": {"en":"It is considered the toughest known animal on Earth.","ms":"Ia dianggap haiwan paling tahan di Bumi."},
+    "active": true
+  },
+  {
+    "difficulty": "Hard",
+    "question": {"en":"Which bacterium survives extreme cold, heat, radiation, and vacuum?","ms":"Bakteria manakah hidup dalam sejuk, panas, radiasi, dan vakum ekstrem?"}, 
+    "answers": [{"en":"Deinococcus radiodurans","ms":"Deinococcus radiodurans"},{"en":"E. coli","ms":"E. coli"},{"en":"Bacillus subtilis","ms":"Bacillus subtilis"},{"en":"Salmonella","ms":"Salmonella"}],
+    "correctIndex": 0,
+    "funFact": {"en":"It can survive conditions lethal to almost all other life forms.","ms":"Ia boleh hidup dalam keadaan yang membunuh hampir semua organisma lain."},
+    "active": true
+  }
+]
