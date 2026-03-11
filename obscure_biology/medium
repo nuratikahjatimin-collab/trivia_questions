@@ -1,0 +1,41 @@
+[
+{
+    "difficulty": "Medium",
+    "question": {"en":"What plant ejects its seeds explosively?","ms":"Tumbuhan manakah yang menembak biji secara letupan?"},
+    "answers": [{"en":"Touch‑me‑not","ms":"Biji Meletup"},{"en":"Rose","ms":"Ros"},{"en":"Grass","ms":"Rumput"},{"en":"Cactus","ms":"Kaktus"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Seeds shoot out when pods burst.","ms":"Biji keluar ketika polong meletup."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"What type of symmetry do starfish have?","ms":"Jenis simetri apa yang dimiliki bintang laut?"},
+    "answers": [{"en":"Radial","ms":"Radial"},{"en":"Bilateral","ms":"Bilateral"},{"en":"Asymmetrical","ms":"Asimetrik"},{"en":"Spherical","ms":"Sfera"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Radial symmetry helps starfish sense in all directions.","ms":"Simetri radial membantu bintang laut rasa semua arah."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which animal uses electric fields to navigate?","ms":"Haiwan manakah guna medan elektrik untuk navigasi?"},
+    "answers": [{"en":"Electric Eel","ms":"Ikan Listrik"},{"en":"Bat","ms":"Kelawar"},{"en":"Catfish","ms":"Ikan Lele"},{"en":"Shark","ms":"Hiu"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Electric eels generate fields to sense prey.","ms":"Ikan listrik hasilkan medan untuk kesan mangsa."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which creature has a decentralized nervous system?","ms":"Organisma manakah mempunyai sistem saraf tidak berpusat?"},
+    "answers": [{"en":"Jellyfish","ms":"Ubur‑ubur"},{"en":"Human","ms":"Manusia"},{"en":"Dog","ms":"Anjing"},{"en":"Ant","ms":"Semut"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Jellyfish rely on nerve nets, not a brain.","ms":"Ubur‑ubur guna saraf bersih, bukan otak."},
+    "active": true
+  },
+  {
+    "difficulty": "Medium",
+    "question": {"en":"Which plant moves rapidly when touched?","ms":"Tumbuhan manakah bergerak cepat apabila disentuh?"},
+    "answers": [{"en":"Mimosa pudica","ms":"Mimosa pudica"},{"en":"Oak","ms":"Pokok Oak"},{"en":"Fern","ms":"Paku"},{"en":"Pine","ms":"Pain"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Mimosa folds leaves to deter predators.","ms":"Mimosa lipat daun untuk halang pemangsa."},
+    "active": true
+  },
