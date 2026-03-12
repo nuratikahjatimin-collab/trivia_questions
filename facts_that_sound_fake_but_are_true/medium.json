@@ -1,0 +1,142 @@
+[
+{
+"question":{"en":"Which animal can survive in the vacuum of space for a short time?","ms":"Haiwan manakah boleh hidup dalam vakum angkasa untuk masa yang singkat?"},
+"answers":[{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Cockroach","ms":"Lipas"},{"en":"Ant","ms":"Semut"},{"en":"Beetle","ms":"Kumbang"}],
+"correctIndex":0,
+"funFact":{"en":"Tardigrades can survive extreme radiation, vacuum, and freezing conditions.","ms":"Tardigrade boleh hidup dalam radiasi, vakum dan suhu beku yang ekstrem."},
+"active":true
+},
+{
+"question":{"en":"Which planet in our solar system has winds faster than the speed of sound?","ms":"Planet manakah mempunyai angin lebih laju daripada kelajuan bunyi?"},
+"answers":[{"en":"Neptune","ms":"Neptun"},{"en":"Mars","ms":"Marikh"},{"en":"Venus","ms":"Zuhrah"},{"en":"Mercury","ms":"Utarid"}],
+"correctIndex":0,
+"funFact":{"en":"Neptune’s winds can reach over 2,000 km/h.","ms":"Angin di Neptun boleh mencapai lebih 2,000 km/j."},
+"active":true
+},
+{
+"question":{"en":"Which mammal has the slowest heartbeat of any land animal?","ms":"Mamalia manakah mempunyai degupan jantung paling perlahan di darat?"},
+"answers":[{"en":"Sloth","ms":"Sloth"},{"en":"Elephant","ms":"Gajah"},{"en":"Bear","ms":"Beruang"},{"en":"Koala","ms":"Koala"}],
+"correctIndex":0,
+"funFact":{"en":"A sloth’s heart rate can drop below 40 beats per minute.","ms":"Degupan jantung sloth boleh turun bawah 40 denyutan seminit."},
+"active":true
+},
+{
+"question":{"en":"Which bird can stay in the air for months without landing?","ms":"Burung manakah boleh berada di udara selama berbulan-bulan tanpa mendarat?"},
+"answers":[{"en":"Common Swift","ms":"Swift Biasa"},{"en":"Albatross","ms":"Albatros"},{"en":"Falcon","ms":"Falcon"},{"en":"Seagull","ms":"Burung Camar"}],
+"correctIndex":0,
+"funFact":{"en":"Common swifts eat, sleep, and mate while flying.","ms":"Swift biasa makan, tidur dan mengawan ketika terbang."},
+"active":true
+},
+{
+"question":{"en":"Which tree species can live for more than 5,000 years?","ms":"Spesies pokok manakah boleh hidup lebih 5,000 tahun?"},
+"answers":[{"en":"Bristlecone Pine","ms":"Pain Bristlecone"},{"en":"Oak","ms":"Oak"},{"en":"Redwood","ms":"Redwood"},{"en":"Baobab","ms":"Baobab"}],
+"correctIndex":0,
+"funFact":{"en":"Some bristlecone pines are among the oldest living organisms on Earth.","ms":"Sesetengah pain bristlecone antara organisma hidup tertua di Bumi."},
+"active":true
+},
+{
+"question":{"en":"Which ocean animal has the largest brain of any invertebrate?","ms":"Haiwan laut manakah mempunyai otak terbesar antara invertebrata?"},
+"answers":[{"en":"Octopus","ms":"Gurita"},{"en":"Squid","ms":"Sotong"},{"en":"Lobster","ms":"Lobster"},{"en":"Crab","ms":"Ketam"}],
+"correctIndex":0,
+"funFact":{"en":"Octopuses can solve puzzles and open jars.","ms":"Gurita boleh menyelesaikan teka-teki dan membuka balang."},
+"active":true
+},
+{
+"question":{"en":"Which animal has the longest pregnancy of any mammal?","ms":"Haiwan manakah mempunyai tempoh kehamilan paling lama antara mamalia?"},
+"answers":[{"en":"Elephant","ms":"Gajah"},{"en":"Whale","ms":"Paus"},{"en":"Giraffe","ms":"Zirafah"},{"en":"Rhino","ms":"Badak"}],
+"correctIndex":0,
+"funFact":{"en":"Elephant pregnancies last about 22 months.","ms":"Kehamilan gajah berlangsung kira-kira 22 bulan."},
+"active":true
+},
+{
+"question":{"en":"Which fish can survive out of water by breathing through its skin?","ms":"Ikan manakah boleh hidup di luar air dengan bernafas melalui kulit?"},
+"answers":[{"en":"Mudskipper","ms":"Mudskipper"},{"en":"Catfish","ms":"Ikan Keli"},{"en":"Tilapia","ms":"Tilapia"},{"en":"Carp","ms":"Ikan Kap"}],
+"correctIndex":0,
+"funFact":{"en":"Mudskippers spend much of their time walking on land.","ms":"Mudskipper menghabiskan banyak masa berjalan di darat."},
+"active":true
+},
+{
+"question":{"en":"Which animal has the longest migration of any mammal?","ms":"Haiwan manakah mempunyai migrasi paling jauh antara mamalia?"},
+"answers":[{"en":"Gray Whale","ms":"Paus Kelabu"},{"en":"Elephant","ms":"Gajah"},{"en":"Wolf","ms":"Serigala"},{"en":"Seal","ms":"Anjing Laut"}],
+"correctIndex":0,
+"funFact":{"en":"Gray whales travel about 20,000 km each year.","ms":"Paus kelabu berhijrah kira-kira 20,000 km setiap tahun."},
+"active":true
+},
+{
+"question":{"en":"Which insect produces the loudest sound relative to its body size?","ms":"Serangga manakah menghasilkan bunyi paling kuat berbanding saiz badannya?"},
+"answers":[{"en":"Cicada","ms":"Cicada"},{"en":"Cricket","ms":"Cengkerik"},{"en":"Bee","ms":"Lebah"},{"en":"Beetle","ms":"Kumbang"}],
+"correctIndex":0,
+"funFact":{"en":"Cicadas can produce sounds over 100 decibels.","ms":"Cicada boleh menghasilkan bunyi lebih 100 desibel."},
+"active":true
+},
+{
+"question":{"en":"Which animal has the strongest bite force among living animals?","ms":"Haiwan manakah mempunyai daya gigitan paling kuat antara haiwan hidup?"},
+"answers":[{"en":"Saltwater Crocodile","ms":"Buaya Air Masin"},{"en":"Lion","ms":"Singa"},{"en":"Tiger","ms":"Harimau"},{"en":"Shark","ms":"Hiu"}],
+"correctIndex":0,
+"funFact":{"en":"Saltwater crocodiles have the strongest bite recorded in animals.","ms":"Buaya air masin mempunyai gigitan paling kuat pernah direkodkan."},
+"active":true
+},
+{
+"question":{"en":"Which animal has eyes bigger than its brain?","ms":"Haiwan manakah mempunyai mata lebih besar daripada otaknya?"},
+"answers":[{"en":"Ostrich","ms":"Burung Unta"},{"en":"Eagle","ms":"Helang"},{"en":"Owl","ms":"Burung Hantu"},{"en":"Pelican","ms":"Pelikan"}],
+"correctIndex":0,
+"funFact":{"en":"Ostrich eyes are the largest of any land animal.","ms":"Mata burung unta adalah yang terbesar antara haiwan darat."},
+"active":true
+},
+{
+"question":{"en":"Which plant can close its leaves instantly when touched?","ms":"Tumbuhan manakah boleh menutup daun dengan segera apabila disentuh?"},
+"answers":[{"en":"Mimosa pudica","ms":"Mimosa pudica"},{"en":"Sunflower","ms":"Bunga Matahari"},{"en":"Fern","ms":"Paku"},{"en":"Rose","ms":"Ros"}],
+"correctIndex":0,
+"funFact":{"en":"The plant folds its leaves as a defense mechanism.","ms":"Tumbuhan ini melipat daunnya sebagai mekanisme pertahanan."},
+"active":true
+},
+{
+"question":{"en":"Which sea creature can regenerate almost its entire body from a small fragment?","ms":"Makhluk laut manakah boleh menumbuhkan semula hampir seluruh badan dari serpihan kecil?"},
+"answers":[{"en":"Starfish","ms":"Bintang Laut"},{"en":"Jellyfish","ms":"Obor-obor"},{"en":"Coral","ms":"Karang"},{"en":"Sea Urchin","ms":"Landak Laut"}],
+"correctIndex":0,
+"funFact":{"en":"Some starfish can regenerate a full body from a single arm.","ms":"Sesetengah bintang laut boleh menumbuhkan seluruh badan dari satu lengan."},
+"active":true
+},
+{
+"question":{"en":"Which animal can detect electrical signals produced by other animals?","ms":"Haiwan manakah boleh mengesan isyarat elektrik yang dihasilkan haiwan lain?"},
+"answers":[{"en":"Shark","ms":"Hiu"},{"en":"Tuna","ms":"Tuna"},{"en":"Barracuda","ms":"Barracuda"},{"en":"Swordfish","ms":"Ikan Pedang"}],
+"correctIndex":0,
+"funFact":{"en":"Sharks use organs called ampullae of Lorenzini.","ms":"Hiu menggunakan organ dipanggil ampullae of Lorenzini."},
+"active":true
+},
+{
+"question":{"en":"Which bird has the largest wingspan of any living bird?","ms":"Burung manakah mempunyai rentang sayap terbesar antara burung hidup?"},
+"answers":[{"en":"Wandering Albatross","ms":"Albatros Pengembara"},{"en":"Condor","ms":"Condor"},{"en":"Eagle","ms":"Helang"},{"en":"Pelican","ms":"Pelikan"}],
+"correctIndex":0,
+"funFact":{"en":"The wandering albatross wingspan can exceed 3.5 meters.","ms":"Rentang sayap albatros pengembara boleh melebihi 3.5 meter."},
+"active":true
+},
+{
+"question":{"en":"Which desert rodent never drinks water in its lifetime?","ms":"Tikus gurun manakah tidak pernah minum air sepanjang hidupnya?"},
+"answers":[{"en":"Kangaroo Rat","ms":"Tikus Kangaroo"},{"en":"Jerboa","ms":"Jerboa"},{"en":"Gerbil","ms":"Gerbil"},{"en":"Hamster","ms":"Hamster"}],
+"correctIndex":0,
+"funFact":{"en":"Kangaroo rats get all the water they need from seeds.","ms":"Tikus kangaroo mendapat semua air daripada biji yang dimakan."},
+"active":true
+},
+{
+"question":{"en":"Which ocean trench is the deepest place on Earth?","ms":"Parit laut manakah paling dalam di Bumi?"},
+"answers":[{"en":"Mariana Trench","ms":"Parit Mariana"},{"en":"Tonga Trench","ms":"Parit Tonga"},{"en":"Philippine Trench","ms":"Parit Filipina"},{"en":"Java Trench","ms":"Parit Jawa"}],
+"correctIndex":0,
+"funFact":{"en":"The Mariana Trench reaches depths of nearly 11 km.","ms":"Parit Mariana mencapai kedalaman hampir 11 km."},
+"active":true
+},
+{
+"question":{"en":"Which animal has the longest lifespan among mammals?","ms":"Haiwan manakah mempunyai jangka hayat paling panjang antara mamalia?"},
+"answers":[{"en":"Bowhead Whale","ms":"Paus Bowhead"},{"en":"Elephant","ms":"Gajah"},{"en":"Human","ms":"Manusia"},{"en":"Horse","ms":"Kuda"}],
+"correctIndex":0,
+"funFact":{"en":"Bowhead whales can live over 200 years.","ms":"Paus bowhead boleh hidup lebih 200 tahun."},
+"active":true
+},
+{
+"question":{"en":"Which animal can rotate its head up to 270 degrees?","ms":"Haiwan manakah boleh memusingkan kepala sehingga 270 darjah?"},
+"answers":[{"en":"Owl","ms":"Burung Hantu"},{"en":"Eagle","ms":"Helang"},{"en":"Crow","ms":"Gagak"},{"en":"Falcon","ms":"Falcon"}],
+"correctIndex":0,
+"funFact":{"en":"Owls have special blood vessels that protect their brains during rotation.","ms":"Burung hantu mempunyai saluran darah khas untuk melindungi otaknya ketika memusingkan kepala."},
+"active":true
+}
+]
