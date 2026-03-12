@@ -1,0 +1,142 @@
+[
+{
+"question":{"en":"Which jellyfish species can revert to its juvenile form, making it biologically immortal?","ms":"Spesies obor-obor manakah boleh kembali ke bentuk juvenil, menjadikannya secara biologi hampir abadi?"},
+"answers":[{"en":"Turritopsis dohrnii","ms":"Turritopsis dohrnii"},{"en":"Moon Jellyfish","ms":"Obor-obor Bulan"},{"en":"Box Jellyfish","ms":"Obor-obor Kotak"},{"en":"Lion's Mane Jellyfish","ms":"Obor-obor Mane Singa"}],
+"correctIndex":0,
+"funFact":{"en":"Turritopsis dohrnii can reset its life cycle repeatedly under certain conditions.","ms":"Turritopsis dohrnii boleh menetapkan semula kitaran hidupnya berulang kali dalam keadaan tertentu."},
+"active":true
+},
+{
+"question":{"en":"Which fish has a transparent head that allows scientists to see its brain?","ms":"Ikan manakah mempunyai kepala lutsinar yang membolehkan saintis melihat otaknya?"},
+"answers":[{"en":"Barreleye Fish","ms":"Ikan Barreleye"},{"en":"Glass Catfish","ms":"Ikan Kaca"},{"en":"Lanternfish","ms":"Ikan Tanglung"},{"en":"Hatchetfish","ms":"Ikan Kapak"}],
+"correctIndex":0,
+"funFact":{"en":"The barreleye fish has a transparent dome covering its eyes.","ms":"Ikan barreleye mempunyai kubah lutsinar yang melindungi matanya."},
+"active":true
+},
+{
+"question":{"en":"Which parasite can control an ant's brain and force it to climb plants before dying?","ms":"Parasit manakah boleh mengawal otak semut dan memaksanya memanjat tumbuhan sebelum mati?"},
+"answers":[{"en":"Ophiocordyceps fungus","ms":"Kulat Ophiocordyceps"},{"en":"Cordyceps militaris","ms":"Cordyceps militaris"},{"en":"Aspergillus fungus","ms":"Kulat Aspergillus"},{"en":"Penicillium fungus","ms":"Kulat Penicillium"}],
+"correctIndex":0,
+"funFact":{"en":"The fungus manipulates the ant to spread spores more effectively.","ms":"Kulat ini memanipulasi semut untuk menyebarkan spora dengan lebih berkesan."},
+"active":true
+},
+{
+"question":{"en":"Which worm species can grow longer than a blue whale?","ms":"Spesies cacing manakah boleh menjadi lebih panjang daripada paus biru?"},
+"answers":[{"en":"Bootlace Worm","ms":"Cacing Bootlace"},{"en":"Earthworm","ms":"Cacing Tanah"},{"en":"Tubeworm","ms":"Cacing Tiub"},{"en":"Flatworm","ms":"Cacing Pipih"}],
+"correctIndex":0,
+"funFact":{"en":"Bootlace worms can reach lengths of over 50 meters.","ms":"Cacing bootlace boleh mencapai panjang lebih 50 meter."},
+"active":true
+},
+{
+"question":{"en":"Which mammal has venomous spurs on its hind legs?","ms":"Mamalia manakah mempunyai taji berbisa pada kaki belakangnya?"},
+"answers":[{"en":"Platypus","ms":"Platipus"},{"en":"Echidna","ms":"Echidna"},{"en":"Otter","ms":"Memerang"},{"en":"Beaver","ms":"Memerang Air"}],
+"correctIndex":0,
+"funFact":{"en":"Male platypuses use venomous spurs during fights.","ms":"Platipus jantan menggunakan taji berbisa semasa berlawan."},
+"active":true
+},
+{
+"question":{"en":"Which microorganism can survive being frozen for thousands of years and revive later?","ms":"Mikroorganisma manakah boleh hidup selepas dibekukan selama ribuan tahun dan hidup semula?"},
+"answers":[{"en":"Bdelloid Rotifer","ms":"Rotifer Bdelloid"},{"en":"Amoeba","ms":"Amoeba"},{"en":"Paramecium","ms":"Paramecium"},{"en":"Euglena","ms":"Euglena"}],
+"correctIndex":0,
+"funFact":{"en":"Bdelloid rotifers have survived in frozen states for thousands of years.","ms":"Rotifer bdelloid boleh bertahan dalam keadaan beku selama ribuan tahun."},
+"active":true
+},
+{
+"question":{"en":"Which bird can sleep while flying across oceans?","ms":"Burung manakah boleh tidur semasa terbang merentasi lautan?"},
+"answers":[{"en":"Frigatebird","ms":"Burung Frigate"},{"en":"Seagull","ms":"Burung Camar"},{"en":"Pelican","ms":"Pelikan"},{"en":"Cormorant","ms":"Kormoran"}],
+"correctIndex":0,
+"funFact":{"en":"Frigatebirds can sleep with half their brain while flying.","ms":"Burung frigate boleh tidur dengan separuh otaknya ketika terbang."},
+"active":true
+},
+{
+"question":{"en":"Which ocean creature can survive without oxygen for long periods?","ms":"Makhluk laut manakah boleh hidup tanpa oksigen untuk tempoh lama?"},
+"answers":[{"en":"Henneguya salminicola","ms":"Henneguya salminicola"},{"en":"Sea Sponge","ms":"Span Laut"},{"en":"Sea Slug","ms":"Siput Laut"},{"en":"Sea Worm","ms":"Cacing Laut"}],
+"correctIndex":0,
+"funFact":{"en":"This parasite is the first known animal that does not need oxygen to live.","ms":"Parasit ini ialah haiwan pertama diketahui yang tidak memerlukan oksigen untuk hidup."},
+"active":true
+},
+{
+"question":{"en":"Which shark species can live for over 400 years?","ms":"Spesies jerung manakah boleh hidup lebih 400 tahun?"},
+"answers":[{"en":"Greenland Shark","ms":"Jerung Greenland"},{"en":"Great White Shark","ms":"Jerung Putih Besar"},{"en":"Tiger Shark","ms":"Jerung Harimau"},{"en":"Hammerhead Shark","ms":"Jerung Kepala Tukul"}],
+"correctIndex":0,
+"funFact":{"en":"Greenland sharks are among the longest-living vertebrates.","ms":"Jerung Greenland antara vertebrata paling lama hidup."},
+"active":true
+},
+{
+"question":{"en":"Which plant can explode its seeds at speeds over 100 km/h?","ms":"Tumbuhan manakah boleh meletupkan bijinya pada kelajuan lebih 100 km/j?"},
+"answers":[{"en":"Sandbox Tree","ms":"Pokok Sandbox"},{"en":"Coconut Tree","ms":"Pokok Kelapa"},{"en":"Baobab","ms":"Baobab"},{"en":"Palm Tree","ms":"Pokok Palma"}],
+"correctIndex":0,
+"funFact":{"en":"The sandbox tree violently ejects seeds to spread them far away.","ms":"Pokok sandbox meletupkan bijinya untuk menyebarkannya jauh."},
+"active":true
+},
+{
+"question":{"en":"Which animal can survive complete dehydration and come back to life when rehydrated?","ms":"Haiwan manakah boleh hidup selepas dehidrasi penuh dan hidup semula apabila mendapat air?"},
+"answers":[{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Sea Sponge","ms":"Span Laut"},{"en":"Jellyfish","ms":"Obor-obor"},{"en":"Coral","ms":"Karang"}],
+"correctIndex":0,
+"funFact":{"en":"Tardigrades enter a state called cryptobiosis.","ms":"Tardigrade memasuki keadaan dipanggil cryptobiosis."},
+"active":true
+},
+{
+"question":{"en":"Which mushroom glows naturally in the dark?","ms":"Cendawan manakah bercahaya secara semula jadi dalam gelap?"},
+"answers":[{"en":"Foxfire Fungus","ms":"Kulat Foxfire"},{"en":"Shiitake","ms":"Shiitake"},{"en":"Portobello","ms":"Portobello"},{"en":"Morel","ms":"Morel"}],
+"correctIndex":0,
+"funFact":{"en":"Some fungi produce light through a chemical reaction called bioluminescence.","ms":"Sesetengah kulat menghasilkan cahaya melalui tindak balas kimia dipanggil bioluminesen."},
+"active":true
+},
+{
+"question":{"en":"Which sea animal can clone itself repeatedly without aging?","ms":"Haiwan laut manakah boleh menggandakan dirinya berulang kali tanpa menua?"},
+"answers":[{"en":"Immortal Jellyfish","ms":"Obor-obor Abadi"},{"en":"Sea Sponge","ms":"Span Laut"},{"en":"Coral","ms":"Karang"},{"en":"Sea Slug","ms":"Siput Laut"}],
+"correctIndex":0,
+"funFact":{"en":"It restarts its life cycle when injured or stressed.","ms":"Ia memulakan semula kitaran hidup apabila cedera atau tertekan."},
+"active":true
+},
+{
+"question":{"en":"Which animal can shoot boiling-hot chemical spray at predators?","ms":"Haiwan manakah boleh menembak semburan kimia panas ke arah pemangsa?"},
+"answers":[{"en":"Bombardier Beetle","ms":"Kumbang Bombardier"},{"en":"Fire Beetle","ms":"Kumbang Api"},{"en":"Tiger Beetle","ms":"Kumbang Harimau"},{"en":"Blister Beetle","ms":"Kumbang Lepuh"}],
+"correctIndex":0,
+"funFact":{"en":"The beetle mixes chemicals that explode into a hot spray.","ms":"Kumbang ini mencampur bahan kimia yang meletup menjadi semburan panas."},
+"active":true
+},
+{
+"question":{"en":"Which deep-sea fish can expand its stomach to swallow prey bigger than itself?","ms":"Ikan laut dalam manakah boleh mengembangkan perutnya untuk menelan mangsa lebih besar daripadanya?"},
+"answers":[{"en":"Black Swallower","ms":"Black Swallower"},{"en":"Anglerfish","ms":"Ikan Angler"},{"en":"Viperfish","ms":"Ikan Viper"},{"en":"Dragonfish","ms":"Ikan Naga"}],
+"correctIndex":0,
+"funFact":{"en":"Black swallowers can eat fish twice their size.","ms":"Black swallower boleh memakan ikan dua kali saiznya."},
+"active":true
+},
+{
+"question":{"en":"Which animal has the fastest punch in the animal kingdom?","ms":"Haiwan manakah mempunyai pukulan paling pantas di dunia haiwan?"},
+"answers":[{"en":"Mantis Shrimp","ms":"Udang Mantis"},{"en":"Lobster","ms":"Lobster"},{"en":"Crab","ms":"Ketam"},{"en":"Octopus","ms":"Gurita"}],
+"correctIndex":0,
+"funFact":{"en":"Mantis shrimp punches can create tiny shockwaves underwater.","ms":"Pukulan udang mantis boleh menghasilkan gelombang kejutan kecil dalam air."},
+"active":true
+},
+{
+"question":{"en":"Which creature can survive being boiled at temperatures over 100°C?","ms":"Makhluk manakah boleh hidup walaupun pada suhu lebih 100°C?"},
+"answers":[{"en":"Pompeii Worm","ms":"Cacing Pompeii"},{"en":"Tube Worm","ms":"Cacing Tiub"},{"en":"Fire Worm","ms":"Cacing Api"},{"en":"Sea Worm","ms":"Cacing Laut"}],
+"correctIndex":0,
+"funFact":{"en":"Pompeii worms live near hydrothermal vents in extreme heat.","ms":"Cacing Pompeii hidup berhampiran lubang hidrotermal dalam haba ekstrem."},
+"active":true
+},
+{
+"question":{"en":"Which plant can trap and digest insects for nutrients?","ms":"Tumbuhan manakah boleh menangkap dan mencerna serangga untuk nutrien?"},
+"answers":[{"en":"Venus Flytrap","ms":"Perangkap Lalat Venus"},{"en":"Fern","ms":"Paku"},{"en":"Cactus","ms":"Kaktus"},{"en":"Bamboo","ms":"Buluh"}],
+"correctIndex":0,
+"funFact":{"en":"Carnivorous plants evolved to survive in nutrient-poor soil.","ms":"Tumbuhan karnivor berevolusi untuk hidup di tanah yang kurang nutrien."},
+"active":true
+},
+{
+"question":{"en":"Which animal can change its entire skin color in less than a second?","ms":"Haiwan manakah boleh menukar warna kulitnya dalam masa kurang satu saat?"},
+"answers":[{"en":"Cuttlefish","ms":"Sotong Kurita"},{"en":"Chameleon","ms":"Bunglon"},{"en":"Octopus","ms":"Gurita"},{"en":"Squid","ms":"Sotong"}],
+"correctIndex":0,
+"funFact":{"en":"Cuttlefish have special cells called chromatophores for instant camouflage.","ms":"Sotong kurita mempunyai sel khas dipanggil kromatofor untuk penyamaran segera."},
+"active":true
+},
+{
+"question":{"en":"Which fungus species is considered the largest living organism on Earth?","ms":"Spesies kulat manakah dianggap organisma hidup terbesar di Bumi?"},
+"answers":[{"en":"Armillaria ostoyae","ms":"Armillaria ostoyae"},{"en":"Penicillium","ms":"Penicillium"},{"en":"Aspergillus","ms":"Aspergillus"},{"en":"Rhizopus","ms":"Rhizopus"}],
+"correctIndex":0,
+"funFact":{"en":"A single Armillaria fungus in Oregon covers over 8 square kilometers.","ms":"Satu kulat Armillaria di Oregon meliputi lebih 8 kilometer persegi."},
+"active":true
+}
+]
