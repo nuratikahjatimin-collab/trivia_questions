@@ -1,6 +1,6 @@
 {
   "dailyQuizEnabled": true,
-  "questionsPerDay": 10,
+  "questionsPerDay": 5,
   "difficultyDistribution": {
     "easy": 5,
     "medium": 3,
