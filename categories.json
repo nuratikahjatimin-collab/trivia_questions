@@ -3,14 +3,21 @@
     "id": "obscure_biology",
     "name": {
       "en": "Obscure Biology",
-      "ms": "Sains"
+      "ms": "Biologi Tersembunyi"
     }
   }
   {
     "id": "animal_and_nature_oddities",
     "name": {
       "en": "Animal & Nature Oddities",
-      "ms": "Sains"
+      "ms": "Keganjilan Haiwan dan Alam Semulajadi"
+    }
+  }
+  {
+    "id": "facts_that_sound_fake_but_are_true",
+    "name": {
+      "en": "Facts That Sound Fake But Are True",
+      "ms": "Fakta Yang Kedengaran Pelik Tapi Benar"
     }
   }
 ]
