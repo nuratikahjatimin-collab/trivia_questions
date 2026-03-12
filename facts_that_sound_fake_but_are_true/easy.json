@@ -1,0 +1,142 @@
+[
+{
+"question":{"en":"Which fruit floats in water because it is about 25% air?","ms":"Buah manakah terapung di air kerana kira-kira 25% daripadanya adalah udara?"},
+"answers":[{"en":"Apple","ms":"Epal"},{"en":"Orange","ms":"Oren"},{"en":"Banana","ms":"Pisang"},{"en":"Pear","ms":"Pir"}],
+"correctIndex":0,
+"funFact":{"en":"Apples float because they contain many air pockets inside.","ms":"Epal terapung kerana mempunyai banyak poket udara di dalamnya."},
+"active":true
+},
+{
+"question":{"en":"Which animal's fingerprints are almost identical to humans?","ms":"Haiwan manakah mempunyai cap jari hampir sama dengan manusia?"},
+"answers":[{"en":"Koala","ms":"Koala"},{"en":"Chimpanzee","ms":"Simpanzi"},{"en":"Monkey","ms":"Monyet"},{"en":"Sloth","ms":"Sloth"}],
+"correctIndex":0,
+"funFact":{"en":"Koala fingerprints are so similar they can confuse forensic investigators.","ms":"Cap jari koala sangat mirip sehingga boleh mengelirukan penyiasat forensik."},
+"active":true
+},
+{
+"question":{"en":"Which planet rains diamonds due to extreme pressure?","ms":"Planet manakah dipercayai mengalami hujan berlian akibat tekanan ekstrem?"},
+"answers":[{"en":"Neptune","ms":"Neptun"},{"en":"Mars","ms":"Marikh"},{"en":"Mercury","ms":"Utarid"},{"en":"Venus","ms":"Zuhrah"}],
+"correctIndex":0,
+"funFact":{"en":"Scientists believe carbon in Neptune's atmosphere can compress into diamonds.","ms":"Saintis percaya karbon di atmosfera Neptun boleh termampat menjadi berlian."},
+"active":true
+},
+{
+"question":{"en":"Which country has more lakes than the rest of the world combined?","ms":"Negara manakah mempunyai lebih banyak tasik daripada seluruh dunia digabungkan?"},
+"answers":[{"en":"Canada","ms":"Kanada"},{"en":"Russia","ms":"Rusia"},{"en":"USA","ms":"Amerika Syarikat"},{"en":"Finland","ms":"Finland"}],
+"correctIndex":0,
+"funFact":{"en":"Canada has over 2 million lakes.","ms":"Kanada mempunyai lebih daripada 2 juta tasik."},
+"active":true
+},
+{
+"question":{"en":"Which animal can survive without its head for several days?","ms":"Haiwan manakah boleh hidup tanpa kepala selama beberapa hari?"},
+"answers":[{"en":"Cockroach","ms":"Lipas"},{"en":"Ant","ms":"Semut"},{"en":"Beetle","ms":"Kumbang"},{"en":"Spider","ms":"Labah-labah"}],
+"correctIndex":0,
+"funFact":{"en":"Cockroaches breathe through body openings and don't rely on their heads to survive temporarily.","ms":"Lipas bernafas melalui liang badan dan tidak bergantung kepada kepala untuk hidup sementara."},
+"active":true
+},
+{
+"question":{"en":"Which metal can melt in your hand due to low melting point?","ms":"Logam manakah boleh cair di tangan kerana takat lebur rendah?"},
+"answers":[{"en":"Gallium","ms":"Gallium"},{"en":"Iron","ms":"Besi"},{"en":"Copper","ms":"Tembaga"},{"en":"Silver","ms":"Perak"}],
+"correctIndex":0,
+"funFact":{"en":"Gallium melts at about 29.7°C.","ms":"Gallium mencair pada kira-kira 29.7°C."},
+"active":true
+},
+{
+"question":{"en":"Which part of the human body contains no blood vessels?","ms":"Bahagian badan manusia manakah tidak mempunyai saluran darah?"},
+"answers":[{"en":"Cornea","ms":"Kornea"},{"en":"Skin","ms":"Kulit"},{"en":"Muscle","ms":"Otot"},{"en":"Bone","ms":"Tulang"}],
+"correctIndex":0,
+"funFact":{"en":"The cornea gets oxygen directly from the air.","ms":"Kornea mendapat oksigen terus dari udara."},
+"active":true
+},
+{
+"question":{"en":"Which animal can sleep for up to three years?","ms":"Haiwan manakah boleh tidur sehingga tiga tahun?"},
+"answers":[{"en":"Snail","ms":"Siput"},{"en":"Frog","ms":"Katak"},{"en":"Bear","ms":"Beruang"},{"en":"Lizard","ms":"Cicak"}],
+"correctIndex":0,
+"funFact":{"en":"Snails may hibernate for years during dry conditions.","ms":"Siput boleh berhibernasi selama bertahun-tahun semasa keadaan kering."},
+"active":true
+},
+{
+"question":{"en":"Which fruit is technically a berry according to botany?","ms":"Buah manakah secara teknikalnya adalah beri menurut botani?"},
+"answers":[{"en":"Banana","ms":"Pisang"},{"en":"Strawberry","ms":"Strawberi"},{"en":"Raspberry","ms":"Raspberry"},{"en":"Cherry","ms":"Ceri"}],
+"correctIndex":0,
+"funFact":{"en":"Botanically, bananas qualify as berries.","ms":"Secara botani, pisang diklasifikasikan sebagai beri."},
+"active":true
+},
+{
+"question":{"en":"Which animal has three hearts?","ms":"Haiwan manakah mempunyai tiga jantung?"},
+"answers":[{"en":"Octopus","ms":"Gurita"},{"en":"Shark","ms":"Hiu"},{"en":"Seal","ms":"Anjing Laut"},{"en":"Dolphin","ms":"Lumba-lumba"}],
+"correctIndex":0,
+"funFact":{"en":"Two hearts pump blood to the gills while one pumps it to the body.","ms":"Dua jantung mengepam darah ke insang dan satu ke badan."},
+"active":true
+},
+{
+"question":{"en":"Which continent has no native ants?","ms":"Benua manakah tidak mempunyai semut asli?"},
+"answers":[{"en":"Antarctica","ms":"Antartika"},{"en":"Europe","ms":"Eropah"},{"en":"Asia","ms":"Asia"},{"en":"Australia","ms":"Australia"}],
+"correctIndex":0,
+"funFact":{"en":"Antarctica is too cold for ants to survive naturally.","ms":"Antartika terlalu sejuk untuk semut hidup secara semula jadi."},
+"active":true
+},
+{
+"question":{"en":"Which bird can fly backwards?","ms":"Burung manakah boleh terbang ke belakang?"},
+"answers":[{"en":"Hummingbird","ms":"Hummingbird"},{"en":"Sparrow","ms":"Burung Pipit"},{"en":"Eagle","ms":"Helang"},{"en":"Parrot","ms":"Kakak Tua"}],
+"correctIndex":0,
+"funFact":{"en":"Hummingbirds hover and even fly backward.","ms":"Hummingbird boleh melayang dan terbang ke belakang."},
+"active":true
+},
+{
+"question":{"en":"Which animal has blue blood due to copper-based molecules?","ms":"Haiwan manakah mempunyai darah biru kerana molekul berasaskan tembaga?"},
+"answers":[{"en":"Horseshoe Crab","ms":"Ketam Ladam"},{"en":"Octopus","ms":"Gurita"},{"en":"Shrimp","ms":"Udang"},{"en":"Lobster","ms":"Lobster"}],
+"correctIndex":0,
+"funFact":{"en":"Its blood is used in medical testing.","ms":"Darahnya digunakan dalam ujian perubatan."},
+"active":true
+},
+{
+"question":{"en":"Which country invented ice cream cones accidentally at a fair?","ms":"Negara manakah secara tidak sengaja mencipta kon ais krim di sebuah pameran?"},
+"answers":[{"en":"United States","ms":"Amerika Syarikat"},{"en":"France","ms":"Perancis"},{"en":"Italy","ms":"Itali"},{"en":"Germany","ms":"Jerman"}],
+"correctIndex":0,
+"funFact":{"en":"A waffle vendor rolled waffles into cones when a seller ran out of bowls.","ms":"Penjual waffle menggulung waffle menjadi kon apabila penjual ais krim kehabisan mangkuk."},
+"active":true
+},
+{
+"question":{"en":"Which animal has square-shaped poop?","ms":"Haiwan manakah mempunyai najis berbentuk segi empat?"},
+"answers":[{"en":"Wombat","ms":"Wombat"},{"en":"Koala","ms":"Koala"},{"en":"Kangaroo","ms":"Kangaroo"},{"en":"Beaver","ms":"Memerang"}],
+"correctIndex":0,
+"funFact":{"en":"Cube-shaped poop helps it stay in place on rocks.","ms":"Najis berbentuk kiub membantu ia kekal di atas batu."},
+"active":true
+},
+{
+"question":{"en":"Which planet spins sideways compared to others?","ms":"Planet manakah berputar secara mengiring berbanding planet lain?"},
+"answers":[{"en":"Uranus","ms":"Uranus"},{"en":"Mars","ms":"Marikh"},{"en":"Jupiter","ms":"Musytari"},{"en":"Saturn","ms":"Zuhal"}],
+"correctIndex":0,
+"funFact":{"en":"Uranus rotates on its side at about 98 degrees.","ms":"Uranus berputar pada sudut kira-kira 98 darjah."},
+"active":true
+},
+{
+"question":{"en":"Which animal's milk is pink due to special pigments?","ms":"Haiwan manakah mempunyai susu berwarna merah jambu kerana pigmen khas?"},
+"answers":[{"en":"Hippopotamus","ms":"Badak Air"},{"en":"Elephant","ms":"Gajah"},{"en":"Camel","ms":"Unta"},{"en":"Whale","ms":"Paus"}],
+"correctIndex":0,
+"funFact":{"en":"Hippos produce reddish secretions sometimes called 'blood sweat'.","ms":"Badak air menghasilkan rembesan kemerahan yang kadang-kadang dipanggil 'peluh darah'."},
+"active":true
+},
+{
+"question":{"en":"Which element is the most abundant in the universe?","ms":"Unsur manakah paling banyak di alam semesta?"},
+"answers":[{"en":"Hydrogen","ms":"Hidrogen"},{"en":"Oxygen","ms":"Oksigen"},{"en":"Carbon","ms":"Karbon"},{"en":"Helium","ms":"Helium"}],
+"correctIndex":0,
+"funFact":{"en":"Hydrogen makes up about 75% of the universe's normal matter.","ms":"Hidrogen membentuk kira-kira 75% jirim biasa alam semesta."},
+"active":true
+},
+{
+"question":{"en":"Which animal can taste with its feet?","ms":"Haiwan manakah boleh merasa dengan kakinya?"},
+"answers":[{"en":"Butterfly","ms":"Kupu-kupu"},{"en":"Bee","ms":"Lebah"},{"en":"Ant","ms":"Semut"},{"en":"Fly","ms":"Lalat"}],
+"correctIndex":0,
+"funFact":{"en":"Butterflies have taste sensors on their feet.","ms":"Kupu-kupu mempunyai deria rasa pada kakinya."},
+"active":true
+},
+{
+"question":{"en":"Which planet has a day longer than its year?","ms":"Planet manakah mempunyai satu hari lebih panjang daripada setahunnya?"},
+"answers":[{"en":"Venus","ms":"Zuhrah"},{"en":"Mercury","ms":"Utarid"},{"en":"Mars","ms":"Marikh"},{"en":"Jupiter","ms":"Musytari"}],
+"correctIndex":0,
+"funFact":{"en":"Venus rotates so slowly that one day lasts longer than a full orbit around the Sun.","ms":"Zuhrah berputar sangat perlahan sehingga satu hari lebih lama daripada satu orbit mengelilingi Matahari."},
+"active":true
+}
+]
