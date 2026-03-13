@@ -1,4 +1,5 @@
-[{
+[
+    {
     "difficulty": "Easy",
     "question": {"en":"Which animal can survive being frozen and then thawed?","ms":"Haiwan manakah yang boleh hidup selepas dibekukan dan dicairkan semula?"},
     "answers": [{"en":"Frog","ms":"Katak"},{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Elephant","ms":"Gajah"},{"en":"Shark","ms":"Hiu"}],
@@ -157,4 +158,5 @@
     "correctIndex": 0,
     "funFact": {"en":"Saltwater crocodiles can bite with over 3,500 pounds of force.","ms":"Buaya air masin boleh menggigit lebih 3,500 paun tekanan."},
     "active": true
-  }]
+  }
+]
