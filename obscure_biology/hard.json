@@ -1,6 +1,6 @@
 [
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which microorganism can survive in nuclear reactors?","ms":"Mikroorganisma manakah yang boleh hidup di reaktor nuklear?"},
     "answers": [{"en":"Deinococcus radiodurans","ms":"Deinococcus radiodurans"},{"en":"E. coli","ms":"E. coli"},{"en":"Yeast","ms":"Yis"},{"en":"Amoeba","ms":"Amuba"}],
     "correctIndex": 0,
@@ -8,7 +8,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which plant can survive complete immersion in saltwater?","ms":"Tumbuhan manakah boleh hidup sepenuhnya dalam air masin?"},
     "answers": [{"en":"Mangrove","ms":"Bakau"},{"en":"Rice","ms":"Padi"},{"en":"Cactus","ms":"Kaktus"},{"en":"Algae","ms":"Alga"}],
     "correctIndex": 0,
@@ -16,7 +16,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which animal can survive without oxygen for months?","ms":"Haiwan manakah boleh hidup tanpa oksigen selama berbulan-bulan?"},
     "answers": [{"en":"Brine Shrimp Cysts","ms":"Kista Udang Garam"},{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Nematode","ms":"Nematod"},{"en":"Frog","ms":"Katak"}],
     "correctIndex": 0,
@@ -24,7 +24,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which fungus can survive in space?","ms":"Kulat manakah yang boleh hidup di angkasa?"},
     "answers": [{"en":"Aspergillus","ms":"Aspergillus"},{"en":"Penicillium","ms":"Penicillium"},{"en":"Saccharomyces","ms":"Saccharomyces"},{"en":"Rhizopus","ms":"Rhizopus"}],
     "correctIndex": 0,
@@ -32,7 +32,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which animal exhibits biological immortality through reverting its cells?","ms":"Haiwan manakah menunjukkan keabadian biologi dengan mengembalikan selnya?"}, 
     "answers": [{"en":"Turritopsis dohrnii","ms":"Turritopsis dohrnii"},{"en":"Hydra","ms":"Hydra"},{"en":"Planarian","ms":"Planaria"},{"en":"Starfish","ms":"Bintang Laut"}],
     "correctIndex": 0,
@@ -40,7 +40,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which microorganism can metabolize radioactive material?","ms":"Mikroorganisma manakah yang boleh metabolisme bahan radioaktif?"},
     "answers": [{"en":"Chernobyl Fungus","ms":"Kulat Chernobyl"},{"en":"E. coli","ms":"E. coli"},{"en":"Yeast","ms":"Yis"},{"en":"Amoeba","ms":"Amuba"}],
     "correctIndex": 0,
@@ -48,7 +48,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which animal can survive both extreme heat and extreme cold?","ms":"Haiwan manakah boleh hidup dalam haba dan sejuk ekstrem?"}, 
     "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Camel","ms":"Unta"},{"en":"Penguin","ms":"Penguin"},{"en":"Desert Beetle","ms":"Kumbang Gurun"}],
     "correctIndex": 0,
@@ -56,7 +56,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which animal can survive extreme vacuum without protection?","ms":"Haiwan manakah boleh hidup dalam vakum ekstrem tanpa perlindungan?"}, 
     "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Cockroach","ms":"Lipeng"},{"en":"Ant","ms":"Semut"},{"en":"Spider","ms":"Labah-labah"}],
     "correctIndex": 0,
@@ -64,7 +64,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which organism can survive complete dehydration for decades?","ms":"Organisma manakah boleh hidup sepenuhnya tanpa air selama beberapa dekad?"}, 
     "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Brine Shrimp","ms":"Udang Garam"},{"en":"Fungus","ms":"Kulat"},{"en":"Seed","ms":"Biji"}],
     "correctIndex": 0,
@@ -72,7 +72,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which bacteria can survive extreme pressure in deep ocean?","ms":"Bakteria manakah boleh hidup dalam tekanan ekstrem di lautan dalam?"}, 
     "answers": [{"en":"Barophiles","ms":"Barofil"},{"en":"E. coli","ms":"E. coli"},{"en":"Streptococcus","ms":"Streptococcus"},{"en":"Lactobacillus","ms":"Lactobacillus"}],
     "correctIndex": 0,
@@ -80,7 +80,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which organism has the fastest known nerve impulse conduction?","ms":"Organisma manakah mempunyai penghantaran impuls saraf terpantas yang diketahui?"}, 
     "answers": [{"en":"Giant Squid","ms":"Sotong Gergasi"},{"en":"Human","ms":"Manusia"},{"en":"Cheetah","ms":"Cheetah"},{"en":"Frog","ms":"Katak"}],
     "correctIndex": 0,
@@ -88,7 +88,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which plant can survive in total darkness for months?","ms":"Tumbuhan manakah boleh hidup dalam kegelapan total selama beberapa bulan?"}, 
     "answers": [{"en":"Ghost Plant (Monotropa uniflora)","ms":"Tumbuhan Hantu (Monotropa uniflora)"},{"en":"Moss","ms":"Lumut"},{"en":"Fern","ms":"Paku"},{"en":"Cactus","ms":"Kaktus"}],
     "correctIndex": 0,
@@ -96,7 +96,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which organism can survive boiling and freezing repeatedly?","ms":"Organisma manakah boleh hidup mendidih dan membeku berulang kali?"}, 
     "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Yeast","ms":"Yis"},{"en":"Bacteria","ms":"Bakteria"},{"en":"Fungus","ms":"Kulat"}],
     "correctIndex": 0,
@@ -104,7 +104,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which creature uses magnetic fields to navigate without eyesight?","ms":"Makhluk manakah menggunakan medan magnet untuk navigasi tanpa penglihatan?"}, 
     "answers": [{"en":"Loggerhead Sea Turtle","ms":"Penyu Laut Loggerhead"},{"en":"Shark","ms":"Hiu"},{"en":"Bat","ms":"Kelawar"},{"en":"Salmon","ms":"Salmon"}],
     "correctIndex": 0,
@@ -112,7 +112,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which insect can survive complete decapitation for over a week?","ms":"Serangga manakah boleh hidup sepenuhnya tanpa kepala lebih seminggu?"}, 
     "answers": [{"en":"Cockroach","ms":"Lipeng"},{"en":"Praying Mantis","ms":"Belalang Sembah"},{"en":"Grasshopper","ms":"Belalang"},{"en":"Beetle","ms":"Kumbang"}],
     "correctIndex": 0,
@@ -120,7 +120,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which microorganism thrives in both extreme cold and radiation?","ms":"Mikroorganisma manakah hidup subur dalam sejuk ekstrem dan radiasi?"}, 
     "answers": [{"en":"Deinococcus radiodurans","ms":"Deinococcus radiodurans"},{"en":"E. coli","ms":"E. coli"},{"en":"Fungus","ms":"Kulat"},{"en":"Amoeba","ms":"Amuba"}],
     "correctIndex": 0,
@@ -128,7 +128,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which deep-sea fish can survive near boiling hydrothermal vents?","ms":"Ikan laut dalam manakah boleh hidup berhampiran ventilasi hidrotermal mendidih?"}, 
     "answers": [{"en":"Pomfret vent fish","ms":"Ikan Pomfret Vent"},{"en":"Anglerfish","ms":"Ikan Pemancing"},{"en":"Goblin Shark","ms":"Hiu Goblin"},{"en":"Coelacanth","ms":"Coelacanth"}],
     "correctIndex": 0,
@@ -136,7 +136,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which organism can survive complete dehydration, freezing, and radiation simultaneously?","ms":"Organisma manakah boleh hidup tanpa air, beku, dan radiasi serentak?"}, 
     "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Brine Shrimp","ms":"Udang Garam"},{"en":"Fungus","ms":"Kulat"},{"en":"Planaria","ms":"Planaria"}],
     "correctIndex": 0,
@@ -144,7 +144,7 @@
     "active": true
   },
   {
-    "difficulty": "Hard",
+    "difficulty": "hard",
     "question": {"en":"Which bacterium survives extreme cold, heat, radiation, and vacuum?","ms":"Bakteria manakah hidup dalam sejuk, panas, radiasi, dan vakum ekstrem?"}, 
     "answers": [{"en":"Deinococcus radiodurans","ms":"Deinococcus radiodurans"},{"en":"E. coli","ms":"E. coli"},{"en":"Bacillus subtilis","ms":"Bacillus subtilis"},{"en":"Salmonella","ms":"Salmonella"}],
     "correctIndex": 0,
