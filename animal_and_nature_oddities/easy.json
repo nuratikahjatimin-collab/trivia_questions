@@ -1,5 +1,6 @@
 [
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal can sleep for up to three years?","ms":"Haiwan manakah boleh tidur sehingga tiga tahun?"},
     "answers": [{"en":"Snail","ms":"Siput"},{"en":"Frog","ms":"Katak"},{"en":"Bear","ms":"Beruang"},{"en":"Lizard","ms":"Cicak"}],
     "correctIndex": 0,
@@ -7,6 +8,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal has fingerprints almost identical to humans?","ms":"Haiwan manakah mempunyai cap jari hampir sama dengan manusia?"},
     "answers": [{"en":"Koala","ms":"Koala"},{"en":"Chimpanzee","ms":"Simpanzi"},{"en":"Gorilla","ms":"Gorila"},{"en":"Sloth","ms":"Sloth"}],
     "correctIndex": 0,
@@ -14,6 +16,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal has three hearts?","ms":"Haiwan manakah mempunyai tiga jantung?"},
     "answers": [{"en":"Octopus","ms":"Gurita"},{"en":"Shark","ms":"Hiu"},{"en":"Dolphin","ms":"Lumba-lumba"},{"en":"Seal","ms":"Anjing Laut"}],
     "correctIndex": 0,
@@ -21,6 +24,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which bird can fly backwards?","ms":"Burung manakah boleh terbang ke belakang?"},
     "answers": [{"en":"Hummingbird","ms":"Burung Hummingbird"},{"en":"Parrot","ms":"Burung Kakak Tua"},{"en":"Eagle","ms":"Helang"},{"en":"Sparrow","ms":"Burung Pipit"}],
     "correctIndex": 0,
@@ -28,6 +32,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal can change color to blend into its surroundings?","ms":"Haiwan manakah boleh menukar warna untuk menyamar dengan persekitaran?"},
     "answers": [{"en":"Chameleon","ms":"Chameleon"},{"en":"Rabbit","ms":"Arnab"},{"en":"Fox","ms":"Rubah"},{"en":"Wolf","ms":"Serigala"}],
     "correctIndex": 0,
@@ -35,6 +40,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal can regrow an entire arm if it loses one?","ms":"Haiwan manakah boleh menumbuhkan semula lengan jika hilang?"},
     "answers": [{"en":"Starfish","ms":"Bintang Laut"},{"en":"Crab","ms":"Ketam"},{"en":"Fish","ms":"Ikan"},{"en":"Frog","ms":"Katak"}],
     "correctIndex": 0,
@@ -42,6 +48,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal has the longest migration of any mammal?","ms":"Haiwan manakah mempunyai migrasi paling jauh antara mamalia?"},
     "answers": [{"en":"Gray Whale","ms":"Paus Kelabu"},{"en":"Elephant","ms":"Gajah"},{"en":"Wolf","ms":"Serigala"},{"en":"Seal","ms":"Anjing Laut"}],
     "correctIndex": 0,
@@ -49,6 +56,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which insect is strong enough to carry many times its body weight?","ms":"Serangga manakah cukup kuat untuk membawa berat berkali ganda daripada badannya?"},
     "answers": [{"en":"Ant","ms":"Semut"},{"en":"Butterfly","ms":"Kupu-kupu"},{"en":"Bee","ms":"Lebah"},{"en":"Beetle","ms":"Kumbang"}],
     "correctIndex": 0,
@@ -56,6 +64,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which fish can generate electricity?","ms":"Ikan manakah boleh menghasilkan elektrik?"},
     "answers": [{"en":"Electric Eel","ms":"Belut Elektrik"},{"en":"Tuna","ms":"Ikan Tuna"},{"en":"Salmon","ms":"Salmon"},{"en":"Cod","ms":"Ikan Kod"}],
     "correctIndex": 0,
@@ -63,6 +72,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal has the longest neck?","ms":"Haiwan manakah mempunyai leher paling panjang?"},
     "answers": [{"en":"Giraffe","ms":"Zirafah"},{"en":"Camel","ms":"Unta"},{"en":"Horse","ms":"Kuda"},{"en":"Ostrich","ms":"Burung Unta"}],
     "correctIndex": 0,
@@ -70,6 +80,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal has the largest eyes of any land animal?","ms":"Haiwan manakah mempunyai mata terbesar antara haiwan darat?"},
     "answers": [{"en":"Ostrich","ms":"Burung Unta"},{"en":"Horse","ms":"Kuda"},{"en":"Deer","ms":"Rusa"},{"en":"Camel","ms":"Unta"}],
     "correctIndex": 0,
@@ -77,6 +88,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal can run the fastest on land?","ms":"Haiwan manakah boleh berlari paling laju di darat?"},
     "answers": [{"en":"Cheetah","ms":"Cheetah"},{"en":"Lion","ms":"Singa"},{"en":"Horse","ms":"Kuda"},{"en":"Tiger","ms":"Harimau"}],
     "correctIndex": 0,
@@ -84,6 +96,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal can survive the longest without drinking water?","ms":"Haiwan manakah boleh hidup paling lama tanpa minum air?"},
     "answers": [{"en":"Kangaroo Rat","ms":"Tikus Kangaroo"},{"en":"Camel","ms":"Unta"},{"en":"Lizard","ms":"Cicak"},{"en":"Snake","ms":"Ular"}],
     "correctIndex": 0,
@@ -91,6 +104,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal can live both in water and on land?","ms":"Haiwan manakah boleh hidup di air dan di darat?"},
     "answers": [{"en":"Frog","ms":"Katak"},{"en":"Dog","ms":"Anjing"},{"en":"Cat","ms":"Kucing"},{"en":"Horse","ms":"Kuda"}],
     "correctIndex": 0,
@@ -98,6 +112,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal has the thickest fur of any mammal?","ms":"Haiwan manakah mempunyai bulu paling tebal antara mamalia?"},
     "answers": [{"en":"Sea Otter","ms":"Memerang Laut"},{"en":"Polar Bear","ms":"Beruang Kutub"},{"en":"Seal","ms":"Anjing Laut"},{"en":"Fox","ms":"Rubah"}],
     "correctIndex": 0,
@@ -105,6 +120,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal has the longest lifespan of any mammal?","ms":"Haiwan manakah mempunyai jangka hayat paling panjang antara mamalia?"},
     "answers": [{"en":"Bowhead Whale","ms":"Paus Bowhead"},{"en":"Elephant","ms":"Gajah"},{"en":"Horse","ms":"Kuda"},{"en":"Human","ms":"Manusia"}],
     "correctIndex": 0,
@@ -112,6 +128,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which bird is the largest living bird?","ms":"Burung manakah yang terbesar hidup hari ini?"},
     "answers": [{"en":"Ostrich","ms":"Burung Unta"},{"en":"Eagle","ms":"Helang"},{"en":"Swan","ms":"Angsa"},{"en":"Pelican","ms":"Pelikan"}],
     "correctIndex": 0,
@@ -119,6 +136,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal has the strongest bite force of any living animal?","ms":"Haiwan manakah mempunyai daya gigitan paling kuat antara haiwan hidup?"},
     "answers": [{"en":"Saltwater Crocodile","ms":"Buaya Air Masin"},{"en":"Lion","ms":"Singa"},{"en":"Shark","ms":"Hiu"},{"en":"Tiger","ms":"Harimau"}],
     "correctIndex": 0,
@@ -126,6 +144,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which animal is known for playing dead to escape predators?","ms":"Haiwan manakah terkenal berpura-pura mati untuk lari dari pemangsa?"},
     "answers": [{"en":"Opossum","ms":"Opossum"},{"en":"Fox","ms":"Rubah"},{"en":"Rabbit","ms":"Arnab"},{"en":"Raccoon","ms":"Rakoon"}],
     "correctIndex": 0,
@@ -133,6 +152,7 @@
     "active": true
   },
   {
+    "difficulty": "easy",
     "question": {"en":"Which plant closes its leaves when touched?","ms":"Tumbuhan manakah menutup daunnya apabila disentuh?"},
     "answers": [{"en":"Mimosa pudica","ms":"Mimosa pudica"},{"en":"Rose","ms":"Ros"},{"en":"Sunflower","ms":"Bunga Matahari"},{"en":"Fern","ms":"Paku"}],
     "correctIndex": 0,
