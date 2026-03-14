@@ -1,6 +1,6 @@
 [
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"What plant ejects its seeds explosively?","ms":"Tumbuhan manakah yang menembak biji secara letupan?"},
         "answers": [{"en":"Touch‑me‑not","ms":"Biji Meletup"},{"en":"Rose","ms":"Ros"},{"en":"Grass","ms":"Rumput"},{"en":"Cactus","ms":"Kaktus"}],
         "correctIndex": 0,
@@ -8,7 +8,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"What type of symmetry do starfish have?","ms":"Jenis simetri apa yang dimiliki bintang laut?"},
         "answers": [{"en":"Radial","ms":"Radial"},{"en":"Bilateral","ms":"Bilateral"},{"en":"Asymmetrical","ms":"Asimetrik"},{"en":"Spherical","ms":"Sfera"}],
         "correctIndex": 0,
@@ -16,7 +16,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which animal uses electric fields to navigate?","ms":"Haiwan manakah guna medan elektrik untuk navigasi?"},
         "answers": [{"en":"Electric Eel","ms":"Ikan Listrik"},{"en":"Bat","ms":"Kelawar"},{"en":"Catfish","ms":"Ikan Lele"},{"en":"Shark","ms":"Hiu"}],
         "correctIndex": 0,
@@ -24,7 +24,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which creature has a decentralized nervous system?","ms":"Organisma manakah mempunyai sistem saraf tidak berpusat?"},
         "answers": [{"en":"Jellyfish","ms":"Ubur‑ubur"},{"en":"Human","ms":"Manusia"},{"en":"Dog","ms":"Anjing"},{"en":"Ant","ms":"Semut"}],
         "correctIndex": 0,
@@ -32,7 +32,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which plant moves rapidly when touched?","ms":"Tumbuhan manakah bergerak cepat apabila disentuh?"},
         "answers": [{"en":"Mimosa pudica","ms":"Mimosa pudica"},{"en":"Oak","ms":"Pokok Oak"},{"en":"Fern","ms":"Paku"},{"en":"Pine","ms":"Pain"}],
         "correctIndex": 0,
@@ -40,7 +40,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which amphibian produces tetrodotoxin as a defense?","ms":"Amfibia manakah menghasilkan tetrodotoksin untuk pertahanan?"},
         "answers": [{"en":"Rough-skinned Newt","ms":"Newt Kulit Kasar"},{"en":"Frog","ms":"Katak"},{"en":"Salamander","ms":"Salamander"},{"en":"Toad","ms":"Katak Tembam"}],
         "correctIndex": 0,
@@ -48,7 +48,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which animal can survive being decapitated and continue moving?","ms":"Haiwan manakah boleh hidup tanpa kepala dan terus bergerak?"},
         "answers": [{"en":"Cockroach","ms":"Lipeng"},{"en":"Spider","ms":"Labah-labah"},{"en":"Lizard","ms":"Cicak"},{"en":"Centipede","ms":"Lipan"}],
         "correctIndex": 0,
@@ -56,7 +56,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which sea creature can clone itself by fragmentation?","ms":"Haiwan laut manakah boleh menyalin dirinya melalui pemecahan?"},
         "answers": [{"en":"Starfish","ms":"Bintang Laut"},{"en":"Sea Cucumber","ms":"Timun Laut"},{"en":"Coral","ms":"Terumbu Karang"},{"en":"Sea Anemone","ms":"Anemon Laut"}],
         "correctIndex": 0,
@@ -64,7 +64,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which animal has the fastest nerve conduction?","ms":"Haiwan manakah mempunyai penghantaran saraf terpantas?"},
         "answers": [{"en":"Squid","ms":"Sotong"},{"en":"Cat","ms":"Kucing"},{"en":"Human","ms":"Manusia"},{"en":"Frog","ms":"Katak"}],
         "correctIndex": 0,
@@ -72,7 +72,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which bird has the largest wingspan?","ms":"Burung manakah mempunyai julat sayap paling besar?"},
         "answers": [{"en":"Wandering Albatross","ms":"Albatros Pengembara"},{"en":"Eagle","ms":"Helang"},{"en":"Condor","ms":"Condor"},{"en":"Pelican","ms":"Pelikan"}],
         "correctIndex": 0,
@@ -80,7 +80,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which plant is carnivorous and grows in nutrient-poor soil?","ms":"Tumbuhan manakah yang karnivor dan hidup di tanah miskin nutrien?"},
         "answers": [{"en":"Pitcher Plant","ms":"Tumbuhan Pitcher"},{"en":"Sunflower","ms":"Bunga Matahari"},{"en":"Fern","ms":"Paku"},{"en":"Moss","ms":"Lumut"}],
         "correctIndex": 0,
@@ -88,7 +88,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which animal is known for 'immortal' regeneration?","ms":"Haiwan manakah terkenal dengan penjanaan semula 'abadi'?"},
         "answers": [{"en":"Hydra","ms":"Hydra"},{"en":"Planaria","ms":"Planaria"},{"en":"Starfish","ms":"Bintang Laut"},{"en":"Jellyfish","ms":"Ubur-ubur"}],
         "correctIndex": 0,
@@ -96,7 +96,7 @@
         "active": true
     },
     {
-        "difficulty": "Medium",
+        "difficulty": "medium",
         "question": {"en":"Which animal can survive freezing temperatures for years?","ms":"Haiwan manakah boleh hidup dalam suhu beku bertahun-tahun?"},
         "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Frog","ms":"Katak"},{"en":"Salamander","ms":"Salamander"},{"en":"Ant","ms":"Semut"}],
         "correctIndex": 0,
