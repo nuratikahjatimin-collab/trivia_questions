@@ -1,5 +1,6 @@
 [
   {
+    "difficulty": "easy",
     "question":{"en":"Which fruit floats in water because it is about 25% air?","ms":"Buah manakah terapung di air kerana kira-kira 25% daripadanya adalah udara?"},
     "answers":[{"en":"Apple","ms":"Epal"},{"en":"Orange","ms":"Oren"},{"en":"Banana","ms":"Pisang"},{"en":"Pear","ms":"Pir"}],
     "correctIndex":0,
@@ -7,6 +8,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which animal's fingerprints are almost identical to humans?","ms":"Haiwan manakah mempunyai cap jari hampir sama dengan manusia?"},
     "answers":[{"en":"Koala","ms":"Koala"},{"en":"Chimpanzee","ms":"Simpanzi"},{"en":"Monkey","ms":"Monyet"},{"en":"Sloth","ms":"Sloth"}],
     "correctIndex":0,
@@ -14,6 +16,7 @@
     "active":true
   }, 
   {
+    "difficulty": "easy",
     "question":{"en":"Which planet rains diamonds due to extreme pressure?","ms":"Planet manakah dipercayai mengalami hujan berlian akibat tekanan ekstrem?"},
     "answers":[{"en":"Neptune","ms":"Neptun"},{"en":"Mars","ms":"Marikh"},{"en":"Mercury","ms":"Utarid"},{"en":"Venus","ms":"Zuhrah"}],
     "correctIndex":0,
@@ -21,6 +24,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which country has more lakes than the rest of the world combined?","ms":"Negara manakah mempunyai lebih banyak tasik daripada seluruh dunia digabungkan?"},
     "answers":[{"en":"Canada","ms":"Kanada"},{"en":"Russia","ms":"Rusia"},{"en":"USA","ms":"Amerika Syarikat"},{"en":"Finland","ms":"Finland"}],
     "correctIndex":0,
@@ -28,6 +32,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which animal can survive without its head for several days?","ms":"Haiwan manakah boleh hidup tanpa kepala selama beberapa hari?"},
     "answers":[{"en":"Cockroach","ms":"Lipas"},{"en":"Ant","ms":"Semut"},{"en":"Beetle","ms":"Kumbang"},{"en":"Spider","ms":"Labah-labah"}],
     "correctIndex":0,
@@ -35,6 +40,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which metal can melt in your hand due to low melting point?","ms":"Logam manakah boleh cair di tangan kerana takat lebur rendah?"},
     "answers":[{"en":"Gallium","ms":"Gallium"},{"en":"Iron","ms":"Besi"},{"en":"Copper","ms":"Tembaga"},{"en":"Silver","ms":"Perak"}],
     "correctIndex":0,
@@ -42,6 +48,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which part of the human body contains no blood vessels?","ms":"Bahagian badan manusia manakah tidak mempunyai saluran darah?"},
     "answers":[{"en":"Cornea","ms":"Kornea"},{"en":"Skin","ms":"Kulit"},{"en":"Muscle","ms":"Otot"},{"en":"Bone","ms":"Tulang"}],
     "correctIndex":0,
@@ -49,6 +56,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which animal can sleep for up to three years?","ms":"Haiwan manakah boleh tidur sehingga tiga tahun?"},
     "answers":[{"en":"Snail","ms":"Siput"},{"en":"Frog","ms":"Katak"},{"en":"Bear","ms":"Beruang"},{"en":"Lizard","ms":"Cicak"}],
     "correctIndex":0,
@@ -56,6 +64,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which fruit is technically a berry according to botany?","ms":"Buah manakah secara teknikalnya adalah beri menurut botani?"},
     "answers":[{"en":"Banana","ms":"Pisang"},{"en":"Strawberry","ms":"Strawberi"},{"en":"Raspberry","ms":"Raspberry"},{"en":"Cherry","ms":"Ceri"}],
     "correctIndex":0,
@@ -63,6 +72,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which animal has three hearts?","ms":"Haiwan manakah mempunyai tiga jantung?"},
     "answers":[{"en":"Octopus","ms":"Gurita"},{"en":"Shark","ms":"Hiu"},{"en":"Seal","ms":"Anjing Laut"},{"en":"Dolphin","ms":"Lumba-lumba"}],
     "correctIndex":0,
@@ -70,6 +80,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which continent has no native ants?","ms":"Benua manakah tidak mempunyai semut asli?"},
     "answers":[{"en":"Antarctica","ms":"Antartika"},{"en":"Europe","ms":"Eropah"},{"en":"Asia","ms":"Asia"},{"en":"Australia","ms":"Australia"}],
     "correctIndex":0,
@@ -77,6 +88,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which bird can fly backwards?","ms":"Burung manakah boleh terbang ke belakang?"},
     "answers":[{"en":"Hummingbird","ms":"Hummingbird"},{"en":"Sparrow","ms":"Burung Pipit"},{"en":"Eagle","ms":"Helang"},{"en":"Parrot","ms":"Kakak Tua"}],
     "correctIndex":0,
@@ -84,6 +96,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which animal has blue blood due to copper-based molecules?","ms":"Haiwan manakah mempunyai darah biru kerana molekul berasaskan tembaga?"},
     "answers":[{"en":"Horseshoe Crab","ms":"Ketam Ladam"},{"en":"Octopus","ms":"Gurita"},{"en":"Shrimp","ms":"Udang"},{"en":"Lobster","ms":"Lobster"}],
     "correctIndex":0,
@@ -91,6 +104,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which country invented ice cream cones accidentally at a fair?","ms":"Negara manakah secara tidak sengaja mencipta kon ais krim di sebuah pameran?"},
     "answers":[{"en":"United States","ms":"Amerika Syarikat"},{"en":"France","ms":"Perancis"},{"en":"Italy","ms":"Itali"},{"en":"Germany","ms":"Jerman"}],
     "correctIndex":0,
@@ -98,6 +112,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which animal has square-shaped poop?","ms":"Haiwan manakah mempunyai najis berbentuk segi empat?"},
     "answers":[{"en":"Wombat","ms":"Wombat"},{"en":"Koala","ms":"Koala"},{"en":"Kangaroo","ms":"Kangaroo"},{"en":"Beaver","ms":"Memerang"}],
     "correctIndex":0,
@@ -105,6 +120,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which planet spins sideways compared to others?","ms":"Planet manakah berputar secara mengiring berbanding planet lain?"},
     "answers":[{"en":"Uranus","ms":"Uranus"},{"en":"Mars","ms":"Marikh"},{"en":"Jupiter","ms":"Musytari"},{"en":"Saturn","ms":"Zuhal"}],
     "correctIndex":0,
@@ -112,6 +128,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which animal's milk is pink due to special pigments?","ms":"Haiwan manakah mempunyai susu berwarna merah jambu kerana pigmen khas?"},
     "answers":[{"en":"Hippopotamus","ms":"Badak Air"},{"en":"Elephant","ms":"Gajah"},{"en":"Camel","ms":"Unta"},{"en":"Whale","ms":"Paus"}],
     "correctIndex":0,
@@ -119,6 +136,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which element is the most abundant in the universe?","ms":"Unsur manakah paling banyak di alam semesta?"},
     "answers":[{"en":"Hydrogen","ms":"Hidrogen"},{"en":"Oxygen","ms":"Oksigen"},{"en":"Carbon","ms":"Karbon"},{"en":"Helium","ms":"Helium"}],
     "correctIndex":0,
@@ -126,6 +144,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which animal can taste with its feet?","ms":"Haiwan manakah boleh merasa dengan kakinya?"},
     "answers":[{"en":"Butterfly","ms":"Kupu-kupu"},{"en":"Bee","ms":"Lebah"},{"en":"Ant","ms":"Semut"},{"en":"Fly","ms":"Lalat"}],
     "correctIndex":0,
@@ -133,6 +152,7 @@
     "active":true
   },
   {
+    "difficulty": "easy",
     "question":{"en":"Which planet has a day longer than its year?","ms":"Planet manakah mempunyai satu hari lebih panjang daripada setahunnya?"},
     "answers":[{"en":"Venus","ms":"Zuhrah"},{"en":"Mercury","ms":"Utarid"},{"en":"Mars","ms":"Marikh"},{"en":"Jupiter","ms":"Musytari"}],
     "correctIndex":0,
