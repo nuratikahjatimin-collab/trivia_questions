@@ -1,5 +1,6 @@
 [
   {
+    "difficulty": "medium",
     "question": {"en":"Which animal can survive being frozen and thawed back to life?","ms":"Haiwan manakah boleh hidup semula selepas dibekukan dan dicairkan?"},
     "answers": [{"en":"Wood Frog","ms":"Katak Kayu"},{"en":"Tree Frog","ms":"Katak Pokok"},{"en":"Bullfrog","ms":"Katak Lembu"},{"en":"Poison Dart Frog","ms":"Katak Beracun"}],
     "correctIndex": 0,
@@ -7,6 +8,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which marine animal is considered biologically immortal because it can revert to its juvenile form?","ms":"Haiwan laut manakah dianggap hampir abadi kerana boleh kembali ke bentuk muda?"},
     "answers": [{"en":"Turritopsis dohrnii","ms":"Turritopsis dohrnii"},{"en":"Moon Jellyfish","ms":"Obor-obor Bulan"},{"en":"Sea Anemone","ms":"Anemon Laut"},{"en":"Box Jellyfish","ms":"Obor-obor Kotak"}],
     "correctIndex": 0,
@@ -14,6 +16,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which animal has the largest brain relative to body size among invertebrates?","ms":"Haiwan manakah mempunyai otak terbesar berbanding saiz badan antara invertebrata?"},
     "answers": [{"en":"Octopus","ms":"Gurita"},{"en":"Squid","ms":"Sotong"},{"en":"Crab","ms":"Ketam"},{"en":"Lobster","ms":"Lobster"}],
     "correctIndex": 0,
@@ -21,6 +24,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which bird has the largest wingspan of any living bird?","ms":"Burung manakah mempunyai rentang sayap terbesar antara burung hidup?"},
     "answers": [{"en":"Wandering Albatross","ms":"Albatros Pengembara"},{"en":"Condor","ms":"Condor"},{"en":"Eagle","ms":"Helang"},{"en":"Pelican","ms":"Pelikan"}],
     "correctIndex": 0,
@@ -28,6 +32,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which animal has the longest recorded tongue relative to body size?","ms":"Haiwan manakah mempunyai lidah terpanjang berbanding saiz badan?"},
     "answers": [{"en":"Chameleon","ms":"Chameleon"},{"en":"Frog","ms":"Katak"},{"en":"Anteater","ms":"Tenggiling Semut"},{"en":"Snake","ms":"Ular"}],
     "correctIndex": 0,
@@ -35,6 +40,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which mammal can glide through the air using a membrane between its limbs?","ms":"Mamalia manakah boleh meluncur di udara menggunakan membran antara anggota badan?"},
     "answers": [{"en":"Flying Squirrel","ms":"Tupai Terbang"},{"en":"Bat","ms":"Kelawar"},{"en":"Sugar Glider","ms":"Sugar Glider"},{"en":"Colugo","ms":"Kubung"}],
     "correctIndex": 3,
@@ -42,6 +48,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which animal has blood that is naturally blue due to copper-based molecules?","ms":"Haiwan manakah mempunyai darah biru kerana molekul berasaskan tembaga?"},
     "answers": [{"en":"Horseshoe Crab","ms":"Ketam Ladam"},{"en":"Blue Crab","ms":"Ketam Biru"},{"en":"Jellyfish","ms":"Obor-obor"},{"en":"Lobster","ms":"Lobster"}],
     "correctIndex": 0,
@@ -49,6 +56,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which desert animal can survive losing up to 45% of its body water?","ms":"Haiwan gurun manakah boleh hidup walaupun kehilangan 45% air badan?"},
     "answers": [{"en":"Camel","ms":"Unta"},{"en":"Kangaroo Rat","ms":"Tikus Kangaroo"},{"en":"Fennec Fox","ms":"Rubah Fennec"},{"en":"Desert Tortoise","ms":"Kura-kura Gurun"}],
     "correctIndex": 0,
@@ -56,6 +64,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which insect has the fastest wingbeat among insects?","ms":"Serangga manakah mempunyai kepakan sayap paling laju antara serangga?"},
     "answers": [{"en":"Midge","ms":"Midge"},{"en":"Bee","ms":"Lebah"},{"en":"Mosquito","ms":"Nyamuk"},{"en":"Dragonfly","ms":"Pepatung"}],
     "correctIndex": 0,
@@ -63,6 +72,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which animal has the ability to rotate its head up to 270 degrees?","ms":"Haiwan manakah boleh memusingkan kepala sehingga 270 darjah?"},
     "answers": [{"en":"Owl","ms":"Burung Hantu"},{"en":"Falcon","ms":"Falcon"},{"en":"Crow","ms":"Gagak"},{"en":"Vulture","ms":"Burung Nasar"}],
     "correctIndex": 0,
@@ -70,6 +80,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which animal produces the loudest sound relative to its body size?","ms":"Haiwan manakah menghasilkan bunyi paling kuat berbanding saiz badannya?"},
     "answers": [{"en":"Pistol Shrimp","ms":"Udang Pistol"},{"en":"Cicada","ms":"Cicada"},{"en":"Cricket","ms":"Cengkerik"},{"en":"Frog","ms":"Katak"}],
     "correctIndex": 0,
@@ -77,6 +88,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which animal has square-shaped poop?","ms":"Haiwan manakah mempunyai najis berbentuk segi empat?"},
     "answers": [{"en":"Wombat","ms":"Wombat"},{"en":"Koala","ms":"Koala"},{"en":"Kangaroo","ms":"Kangaroo"},{"en":"Tasmanian Devil","ms":"Syaitan Tasmania"}],
     "correctIndex": 0,
@@ -84,6 +96,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which animal can detect electrical fields to locate prey?","ms":"Haiwan manakah boleh mengesan medan elektrik untuk mencari mangsa?"},
     "answers": [{"en":"Shark","ms":"Hiu"},{"en":"Tuna","ms":"Tuna"},{"en":"Barracuda","ms":"Barracuda"},{"en":"Mackerel","ms":"Makarel"}],
     "correctIndex": 0,
@@ -91,13 +104,15 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which mammal is capable of true sustained flight?","ms":"Mamalia manakah mampu terbang secara sebenar?"},
     "answers": [{"en":"Bat","ms":"Kelawar"},{"en":"Flying Squirrel","ms":"Tupai Terbang"},{"en":"Sugar Glider","ms":"Sugar Glider"},{"en":"Colugo","ms":"Kubung"}],
     "correctIndex": 0,
     "funFact": {"en":"Bats are the only mammals capable of true powered flight.","ms":"Kelawar ialah satu-satunya mamalia yang boleh terbang secara sebenar."},
     "active": true
   },
-  {  
+  {
+    "difficulty": "medium",
     "question": {"en":"Which animal can survive extreme radiation levels far beyond humans?","ms":"Haiwan manakah boleh hidup dalam radiasi jauh lebih tinggi daripada manusia?"},
     "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Cockroach","ms":"Lipas"},{"en":"Ant","ms":"Semut"},{"en":"Beetle","ms":"Kumbang"}],
     "correctIndex": 0,
@@ -105,6 +120,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which plant is famous for trapping insects using snap-like leaves?","ms":"Tumbuhan manakah terkenal memerangkap serangga menggunakan daun seperti perangkap?"},
     "answers": [{"en":"Venus Flytrap","ms":"Perangkap Lalat Venus"},{"en":"Pitcher Plant","ms":"Pokok Periuk Kera"},{"en":"Sundew","ms":"Sundew"},{"en":"Butterwort","ms":"Butterwort"}],
     "correctIndex": 0,
@@ -112,6 +128,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which sea creature has the largest eyes in the animal kingdom?","ms":"Makhluk laut manakah mempunyai mata terbesar dalam dunia haiwan?"},
     "answers": [{"en":"Colossal Squid","ms":"Sotong Gergasi"},{"en":"Giant Squid","ms":"Sotong Raksasa"},{"en":"Blue Whale","ms":"Paus Biru"},{"en":"Shark","ms":"Hiu"}],
     "correctIndex": 0,
@@ -119,6 +136,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which bird is known for mimicking chainsaws, alarms, and other sounds?","ms":"Burung manakah terkenal meniru bunyi gergaji, penggera, dan bunyi lain?"},
     "answers": [{"en":"Lyrebird","ms":"Burung Lyrebird"},{"en":"Crow","ms":"Gagak"},{"en":"Parrot","ms":"Kakak Tua"},{"en":"Magpie","ms":"Magpie"}],
     "correctIndex": 0,
@@ -126,6 +144,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which animal can stretch its stomach to eat prey much larger than itself?","ms":"Haiwan manakah boleh mengembangkan perut untuk makan mangsa lebih besar daripadanya?"},
     "answers": [{"en":"Snake","ms":"Ular"},{"en":"Frog","ms":"Katak"},{"en":"Lizard","ms":"Cicak"},{"en":"Crocodile","ms":"Buaya"}],
     "correctIndex": 0,
@@ -133,6 +152,7 @@
     "active": true
   },
   {
+    "difficulty": "medium",
     "question": {"en":"Which fish can climb waterfalls using a suction-like mouth?","ms":"Ikan manakah boleh memanjat air terjun menggunakan mulut seperti penyedut?"},
     "answers": [{"en":"Hawaiian Goby","ms":"Goby Hawaii"},{"en":"Catfish","ms":"Ikan Keli"},{"en":"Carp","ms":"Ikan Kap"},{"en":"Tilapia","ms":"Tilapia"}],
     "correctIndex": 0,
