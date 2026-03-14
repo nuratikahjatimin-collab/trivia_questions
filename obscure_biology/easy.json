@@ -1,6 +1,6 @@
 [
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which animal can survive being frozen and then thawed?","ms":"Haiwan manakah yang boleh hidup selepas dibekukan dan dicairkan semula?"},
         "answers": [{"en":"Frog","ms":"Katak"},{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Elephant","ms":"Gajah"},{"en":"Shark","ms":"Hiu"}],
         "correctIndex": 1,
@@ -8,7 +8,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"What is the only mammal capable of true flight?","ms":"Mamalia manakah satu-satunya yang mampu terbang sebenar?"},
         "answers": [{"en":"Bat","ms":"Kelawar"},{"en":"Flying Squirrel","ms":"Tupai Terbang"},{"en":"Eagle","ms":"Helang"},{"en":"Hummingbird","ms":"Burung Hummingbird"}],
         "correctIndex": 0,
@@ -16,7 +16,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which plant traps insects for nutrition?","ms":"Tumbuhan manakah yang menangkap serangga untuk nutrisi?"},
         "answers": [{"en":"Venus Flytrap","ms":"Venus Flytrap"},{"en":"Sunflower","ms":"Bunga Matahari"},{"en":"Oak","ms":"Pokok Oak"},{"en":"Bamboo","ms":"Buluh"}],
         "correctIndex": 0,
@@ -24,7 +24,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"What organism is called the 'immortal' one?","ms":"Organisma manakah yang disebut sebagai 'abadi'?"},
         "answers": [{"en":"Jellyfish Turritopsis dohrnii","ms":"Ubur-ubur Turritopsis dohrnii"},{"en":"Hydra","ms":"Hydra"},{"en":"Planarian","ms":"Planaria"},{"en":"Starfish","ms":"Bintang Laut"}],
         "correctIndex": 0,
@@ -32,7 +32,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which insect can survive decapitation for days?","ms":"Serangga manakah boleh hidup tanpa kepala beberapa hari?"},
         "answers": [{"en":"Cockroach","ms":"Lipeng"},{"en":"Ant","ms":"Semut"},{"en":"Grasshopper","ms":"Belalang"},{"en":"Dragonfly","ms":"Capung"}],
         "correctIndex": 0,
@@ -40,7 +40,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which animal has blue blood?","ms":"Haiwan manakah yang mempunyai darah biru?"},
         "answers": [{"en":"Horseshoe Crab","ms":"Ketam Tapal Kuda"},{"en":"Octopus","ms":"Gurita"},{"en":"Shark","ms":"Hiu"},{"en":"Crocodile","ms":"Buaya"}],
         "correctIndex": 0,
@@ -48,7 +48,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which bird can mimic human speech?","ms":"Burung manakah boleh meniru pertuturan manusia?"},
         "answers": [{"en":"Parrot","ms":"Burung Kakak Tua"},{"en":"Crow","ms":"Gagak"},{"en":"Eagle","ms":"Helang"},{"en":"Swan","ms":"Angsa"}],
         "correctIndex": 0,
@@ -56,7 +56,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which animal lays the largest eggs?","ms":"Haiwan manakah bertelur paling besar?"},
         "answers": [{"en":"Ostrich","ms":"Burung Unta"},{"en":"Eagle","ms":"Helang"},{"en":"Turtle","ms":"Kura-kura"},{"en":"Penguin","ms":"Penguin"}],
         "correctIndex": 0,
@@ -64,7 +64,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which animal can taste with its feet?","ms":"Haiwan manakah boleh merasa rasa dengan kaki?"},
         "answers": [{"en":"Butterfly","ms":"Kupu‑kupu"},{"en":"Frog","ms":"Katak"},{"en":"Cat","ms":"Kucing"},{"en":"Lizard","ms":"Cicak"}],
         "correctIndex": 0,
@@ -72,7 +72,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which microorganism is used to make bread?","ms":"Mikroorganisma manakah digunakan untuk buat roti?"},
         "answers": [{"en":"Yeast","ms":"Yis"},{"en":"Bacteria","ms":"Bakteria"},{"en":"Algae","ms":"Alga"},{"en":"Mold","ms":"Kulat Acuan"}],
         "correctIndex": 0,
@@ -80,7 +80,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"What is the smallest bone in the human body?","ms":"Apakah tulang terkecil dalam tubuh manusia?"},
         "answers": [{"en":"Stapes","ms":"Stapes"},{"en":"Femur","ms":"Femur"},{"en":"Incus","ms":"Incus"},{"en":"Tibia","ms":"Tibia"}],
         "correctIndex": 0,
@@ -88,7 +88,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which amphibian can survive complete dehydration?","ms":"Amfibia manakah yang boleh hidup sepenuhnya tanpa air?"},
         "answers": [{"en":"African Lungfish","ms":"Ikan Paru Afrika"},{"en":"Frog","ms":"Katak"},{"en":"Salamander","ms":"Salamander"},{"en":"Toad","ms":"Katak Tembam"}],
         "correctIndex": 0,
@@ -96,7 +96,7 @@
         "active": true
     },
     {
-        "difficulty": "Easy",
+        "difficulty": "easy",
         "question": {"en":"Which animal can regrow its lost body parts?","ms":"Haiwan manakah yang boleh menumbuhkan semula bahagian badan yang hilang?"},
         "answers": [{"en":"Starfish","ms":"Bintang Laut"},{"en":"Cat","ms":"Kucing"},{"en":"Dog","ms":"Anjing"},{"en":"Horse","ms":"Kuda"}],
         "correctIndex": 0,
@@ -104,7 +104,7 @@
         "active": true
     },
     {
-    "difficulty": "Easy",
+    "difficulty": "easy",
     "question": {"en":"Which animal’s blood is green due to copper compounds?","ms":"Darah haiwan manakah berwarna hijau kerana sebatian kuprum?"},
     "answers": [{"en":"Green Octopus","ms":"Gurita Hijau"},{"en":"Crab","ms":"Ketam"},{"en":"Grasshopper","ms":"Belalang"},{"en":"Frog","ms":"Katak"}],
     "correctIndex": 0,
@@ -112,7 +112,7 @@
     "active": true
   },
   {
-    "difficulty": "Easy",
+    "difficulty": "easy",
     "question": {"en":"Which insect can survive underwater for weeks?","ms":"Serangga manakah yang boleh hidup di bawah air selama beberapa minggu?"},
     "answers": [{"en":"Water Beetle","ms":"Kepik Air"},{"en":"Ant","ms":"Semut"},{"en":"Beetle","ms":"Kumbang"},{"en":"Dragonfly","ms":"Capung"}],
     "correctIndex": 0,
@@ -120,7 +120,7 @@
     "active": true
   },
   {
-    "difficulty": "Easy",
+    "difficulty": "easy",
     "question": {"en":"Which bird migrates the longest distance?","ms":"Burung manakah yang berhijrah jarak paling jauh?"},
     "answers": [{"en":"Arctic Tern","ms":"Burung Tern Artik"},{"en":"Swan","ms":"Angsa"},{"en":"Eagle","ms":"Helang"},{"en":"Albatross","ms":"Albatros"}],
     "correctIndex": 0,
@@ -128,7 +128,7 @@
     "active": true
   },
   {
-    "difficulty": "Easy",
+    "difficulty": "easy",
     "question": {"en":"Which animal has the fastest heartbeat?","ms":"Haiwan manakah yang mempunyai degupan jantung paling cepat?"},
     "answers": [{"en":"Hummingbird","ms":"Burung Hummingbird"},{"en":"Mouse","ms":"Tikus"},{"en":"Rabbit","ms":"Arnab"},{"en":"Cat","ms":"Kucing"}],
     "correctIndex": 0,
@@ -136,7 +136,7 @@
     "active": true
   },
   {
-    "difficulty": "Easy",
+    "difficulty": "easy",
     "question": {"en":"Which animal has the longest tongue relative to its body?","ms":"Haiwan manakah yang mempunyai lidah paling panjang berbanding badan?"},
     "answers": [{"en":"Chameleon","ms":"Chameleon"},{"en":"Frog","ms":"Katak"},{"en":"Anteater","ms":"Semut Eater"},{"en":"Giraffe","ms":"Zirafah"}],
     "correctIndex": 0,
@@ -144,7 +144,7 @@
     "active": true
   },
   {
-    "difficulty": "Easy",
+    "difficulty": "easy",
     "question": {"en":"Which animal can survive in the vacuum of space?","ms":"Haiwan manakah yang boleh hidup dalam vakum angkasa?"},
     "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Cat","ms":"Kucing"},{"en":"Dog","ms":"Anjing"},{"en":"Mouse","ms":"Tikus"}],
     "correctIndex": 0,
@@ -152,7 +152,7 @@
     "active": true
   },
   {
-    "difficulty": "Easy",
+    "difficulty": "easy",
     "question": {"en":"Which animal is known for the most powerful bite force?","ms":"Haiwan manakah yang terkenal dengan daya gigitan paling kuat?"},
     "answers": [{"en":"Crocodile","ms":"Buaya"},{"en":"Lion","ms":"Singa"},{"en":"Shark","ms":"Hiu"},{"en":"Hyena","ms":"Hyena"}],
     "correctIndex": 0,
