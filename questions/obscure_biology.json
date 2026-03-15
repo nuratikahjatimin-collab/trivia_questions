@@ -1,116 +1,107 @@
 [
   {
     "difficulty": "easy",
-    "question": {"en":"Which bacterium survives extreme cold, heat, radiation, and vacuum?","ms":"Bakteria manakah hidup dalam sejuk, panas, radiasi, dan vakum ekstrem?"}, 
-    "answers": [{"en":"Deinococcus radiodurans","ms":"Deinococcus radiodurans"},{"en":"E. coli","ms":"E. coli"},{"en":"Bacillus subtilis","ms":"Bacillus subtilis"},{"en":"Salmonella","ms":"Salmonella"}],
+    "question": {"en":"Which animal has blue blood due to copper-based molecules?","ms":"Haiwan manakah mempunyai darah biru kerana molekul berasaskan kuprum?"},
+    "answers": [{"en":"Horseshoe crab","ms":"Ketam ladam"},{"en":"Frog","ms":"Katak"},{"en":"Octopus","ms":"Sotong kurita"},{"en":"Shark","ms":"Jerung"}],
     "correctIndex": 0,
-    "funFact": {"en":"It can survive conditions lethal to almost all other life forms.","ms":"Ia boleh hidup dalam keadaan yang membunuh hampir semua organisma lain."},
-    "active": true
+    "funFact": {"en":"Horseshoe crab blood contains hemocyanin, a copper-based molecule that turns blue when carrying oxygen.","ms":"Darah ketam ladam mengandungi hemocyanin, molekul berasaskan kuprum yang menjadi biru apabila membawa oksigen."}
+  },
+  {
+    "difficulty": "easy",
+    "question": {"en":"Which microscopic organism is famous for surviving extreme environments, including space?","ms":"Organisma mikroskopik manakah terkenal kerana boleh hidup dalam persekitaran ekstrem termasuk angkasa lepas?"},
+    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Amoeba","ms":"Ameba"},{"en":"Paramecium","ms":"Paramecium"},{"en":"Euglena","ms":"Euglena"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Tardigrades can survive radiation, freezing, dehydration, and even the vacuum of space.","ms":"Tardigrade boleh bertahan daripada radiasi, pembekuan, kekeringan dan juga vakum angkasa."}
+  },
+  {
+    "difficulty": "easy",
+    "question": {"en":"Which plant hormone is responsible for plants bending toward light?","ms":"Hormon tumbuhan manakah yang menyebabkan tumbuhan membengkok ke arah cahaya?"},
+    "answers": [{"en":"Auxin","ms":"Auksin"},{"en":"Cytokinin","ms":"Sitokinin"},{"en":"Ethylene","ms":"Etilena"},{"en":"Gibberellin","ms":"Giberelin"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Auxin accumulates on the shaded side of a plant stem, causing those cells to grow longer and bend toward light.","ms":"Auksin berkumpul di bahagian batang yang tidak terkena cahaya, menyebabkan sel memanjang dan membengkok ke arah cahaya."}
+  },
+  {
+    "difficulty": "easy",
+    "question": {"en":"Which organelle is known as the 'powerhouse of the cell'?","ms":"Organel manakah dikenali sebagai 'loji kuasa sel'?"},
+    "answers": [{"en":"Mitochondria","ms":"Mitokondria"},{"en":"Nucleus","ms":"Nukleus"},{"en":"Ribosome","ms":"Ribosom"},{"en":"Golgi apparatus","ms":"Badan Golgi"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Mitochondria generate most of the cell’s energy in the form of ATP through cellular respiration.","ms":"Mitokondria menghasilkan kebanyakan tenaga sel dalam bentuk ATP melalui respirasi sel."}
+  },
+  {
+    "difficulty": "easy",
+    "question": {"en":"Which type of blood cell helps fight infections?","ms":"Jenis sel darah manakah membantu melawan jangkitan?"},
+    "answers": [{"en":"White blood cells","ms":"Sel darah putih"},{"en":"Red blood cells","ms":"Sel darah merah"},{"en":"Platelets","ms":"Platelet"},{"en":"Plasma cells","ms":"Sel plasma"}],
+    "correctIndex": 0,
+    "funFact": {"en":"White blood cells are part of the immune system and attack bacteria, viruses, and other pathogens.","ms":"Sel darah putih adalah sebahagian daripada sistem imun dan menyerang bakteria, virus dan patogen lain."}
+  },
+  {
+    "difficulty": "medium",
+    "question": {"en":"Which marine animal can clone itself naturally by splitting in half?","ms":"Haiwan laut manakah boleh mengklon dirinya secara semula jadi dengan membelah dua?"},
+    "answers": [{"en":"Sea anemone","ms":"Anemon laut"},{"en":"Dolphin","ms":"Lumba-lumba"},{"en":"Sea turtle","ms":"Penyu laut"},{"en":"Stingray","ms":"Ikan pari"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Some sea anemones reproduce asexually by splitting into two genetically identical individuals.","ms":"Sesetengah anemon laut membiak secara aseks dengan membelah menjadi dua individu yang sama secara genetik."}
+  },
+  {
+    "difficulty": "medium",
+    "question": {"en":"Which molecule carries genetic instructions in living organisms?","ms":"Molekul manakah membawa arahan genetik dalam organisma hidup?"},
+    "answers": [{"en":"DNA","ms":"DNA"},{"en":"ATP","ms":"ATP"},{"en":"Glucose","ms":"Glukosa"},{"en":"Hemoglobin","ms":"Hemoglobin"}],
+    "correctIndex": 0,
+    "funFact": {"en":"DNA contains genes that determine traits and control the development and functioning of organisms.","ms":"DNA mengandungi gen yang menentukan ciri-ciri dan mengawal perkembangan serta fungsi organisma."}
+  },
+  {
+    "difficulty": "medium",
+    "question": {"en":"Which structure allows bacteria to move like tiny propellers?","ms":"Struktur manakah membolehkan bakteria bergerak seperti kipas kecil?"},
+    "answers": [{"en":"Flagellum","ms":"Flagelum"},{"en":"Cilia","ms":"Silia"},{"en":"Capsule","ms":"Kapsul"},{"en":"Cell wall","ms":"Dinding sel"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Flagella rotate like microscopic motors, allowing some bacteria to swim through liquids.","ms":"Flagelum berputar seperti motor mikroskopik, membolehkan sesetengah bakteria berenang dalam cecair."}
+  },
+  {
+    "difficulty": "medium",
+    "question": {"en":"Which type of symbiosis benefits both organisms involved?","ms":"Jenis simbiosis manakah memberi manfaat kepada kedua-dua organisma?"},
+    "answers": [{"en":"Mutualism","ms":"Mutualisme"},{"en":"Parasitism","ms":"Parasitisme"},{"en":"Commensalism","ms":"Komensalisme"},{"en":"Competition","ms":"Persaingan"}],
+    "correctIndex": 0,
+    "funFact": {"en":"In mutualism, both species benefit, such as bees pollinating flowers while collecting nectar.","ms":"Dalam mutualisme, kedua-dua spesies mendapat manfaat, seperti lebah yang membantu pendebungaan bunga sambil mengumpul nektar."}
+  },
+  {
+    "difficulty": "medium",
+    "question": {"en":"Which pigment allows plants to absorb light for photosynthesis?","ms":"Pigmen manakah membolehkan tumbuhan menyerap cahaya untuk fotosintesis?"},
+    "answers": [{"en":"Chlorophyll","ms":"Klorofil"},{"en":"Melanin","ms":"Melanin"},{"en":"Keratin","ms":"Keratin"},{"en":"Carotene","ms":"Karotena"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Chlorophyll absorbs mostly blue and red light, which powers photosynthesis in plants.","ms":"Klorofil menyerap terutamanya cahaya biru dan merah yang menggerakkan fotosintesis dalam tumbuhan."}
+  },
+  {
+    "difficulty": "hard",
+    "question": {"en":"Which organ in sharks can detect tiny electrical signals from prey?","ms":"Organ manakah pada jerung yang boleh mengesan isyarat elektrik kecil daripada mangsa?"},
+    "answers": [{"en":"Ampullae of Lorenzini","ms":"Ampullae of Lorenzini"},{"en":"Lateral line","ms":"Garis lateral"},{"en":"Gill arches","ms":"Lengkung insang"},{"en":"Spiracle","ms":"Spirakel"}],
+    "correctIndex": 0,
+    "funFact": {"en":"The ampullae of Lorenzini are jelly-filled sensory organs that detect electrical fields produced by other animals.","ms":"Ampullae of Lorenzini ialah organ deria berisi gel yang mengesan medan elektrik yang dihasilkan oleh haiwan lain."}
+  },
+  {
+    "difficulty": "hard",
+    "question": {"en":"Which cellular process breaks down glucose to produce ATP without oxygen?","ms":"Proses selular manakah memecahkan glukosa untuk menghasilkan ATP tanpa oksigen?"},
+    "answers": [{"en":"Glycolysis","ms":"Glikolisis"},{"en":"Photosynthesis","ms":"Fotosintesis"},{"en":"Oxidative phosphorylation","ms":"Fosforilasi oksidatif"},{"en":"Calvin cycle","ms":"Kitaran Calvin"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Glycolysis occurs in the cytoplasm and does not require oxygen, producing small amounts of ATP.","ms":"Glikolisis berlaku dalam sitoplasma dan tidak memerlukan oksigen, menghasilkan sejumlah kecil ATP."}
+  },
+  {
+    "difficulty": "hard",
+    "question": {"en":"Which protein helps DNA pack tightly inside the nucleus?","ms":"Protein manakah membantu DNA dipadatkan dengan rapat dalam nukleus?"},
+    "answers": [{"en":"Histone","ms":"Histon"},{"en":"Collagen","ms":"Kolagen"},{"en":"Keratin","ms":"Keratin"},{"en":"Insulin","ms":"Insulin"}],
+    "correctIndex": 0,
+    "funFact": {"en":"DNA wraps around histone proteins to form structures called nucleosomes.","ms":"DNA melilit protein histon untuk membentuk struktur yang dipanggil nukleosom."}
+  },
+  {
+    "difficulty": "hard",
+    "question": {"en":"Which biological molecule acts as an enzyme to speed up chemical reactions in cells?","ms":"Molekul biologi manakah bertindak sebagai enzim untuk mempercepatkan tindak balas kimia dalam sel?"},
+    "answers": [{"en":"Protein","ms":"Protein"},{"en":"Lipid","ms":"Lipid"},{"en":"Starch","ms":"Kanji"},{"en":"Cellulose","ms":"Selulosa"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Most enzymes are proteins that speed up biochemical reactions essential for life.","ms":"Kebanyakan enzim ialah protein yang mempercepatkan tindak balas biokimia penting untuk kehidupan."}
+  },
+  {
+    "difficulty": "hard",
+    "question": {"en":"Which process allows certain bacteria to convert nitrogen gas into a usable form for plants?","ms":"Proses manakah membolehkan bakteria tertentu menukar gas nitrogen kepada bentuk yang boleh digunakan oleh tumbuhan?"},
+    "answers": [{"en":"Nitrogen fixation","ms":"Fiksasi nitrogen"},{"en":"Respiration","ms":"Respirasi"},{"en":"Fermentation","ms":"Fermentasi"},{"en":"Transpiration","ms":"Transpirasi"}],
+    "correctIndex": 0,
+    "funFact": {"en":"Nitrogen-fixing bacteria in soil and plant roots convert atmospheric nitrogen into ammonia.","ms":"Bakteria fiksasi nitrogen dalam tanah dan akar tumbuhan menukar nitrogen atmosfera kepada ammonia."}
   }
-]
-[
-    {
-        "difficulty": "medium",
-        "question": {"en":"What plant ejects its seeds explosively?","ms":"Tumbuhan manakah yang menembak biji secara letupan?"},
-        "answers": [{"en":"Touch‑me‑not","ms":"Biji Meletup"},{"en":"Rose","ms":"Ros"},{"en":"Grass","ms":"Rumput"},{"en":"Cactus","ms":"Kaktus"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Seeds shoot out when pods burst.","ms":"Biji keluar ketika polong meletup."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"What type of symmetry do starfish have?","ms":"Jenis simetri apa yang dimiliki bintang laut?"},
-        "answers": [{"en":"Radial","ms":"Radial"},{"en":"Bilateral","ms":"Bilateral"},{"en":"Asymmetrical","ms":"Asimetrik"},{"en":"Spherical","ms":"Sfera"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Radial symmetry helps starfish sense in all directions.","ms":"Simetri radial membantu bintang laut rasa semua arah."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which animal uses electric fields to navigate?","ms":"Haiwan manakah guna medan elektrik untuk navigasi?"},
-        "answers": [{"en":"Electric Eel","ms":"Ikan Listrik"},{"en":"Bat","ms":"Kelawar"},{"en":"Catfish","ms":"Ikan Lele"},{"en":"Shark","ms":"Hiu"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Electric eels generate fields to sense prey.","ms":"Ikan listrik hasilkan medan untuk kesan mangsa."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which creature has a decentralized nervous system?","ms":"Organisma manakah mempunyai sistem saraf tidak berpusat?"},
-        "answers": [{"en":"Jellyfish","ms":"Ubur‑ubur"},{"en":"Human","ms":"Manusia"},{"en":"Dog","ms":"Anjing"},{"en":"Ant","ms":"Semut"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Jellyfish rely on nerve nets, not a brain.","ms":"Ubur‑ubur guna saraf bersih, bukan otak."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which plant moves rapidly when touched?","ms":"Tumbuhan manakah bergerak cepat apabila disentuh?"},
-        "answers": [{"en":"Mimosa pudica","ms":"Mimosa pudica"},{"en":"Oak","ms":"Pokok Oak"},{"en":"Fern","ms":"Paku"},{"en":"Pine","ms":"Pain"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Mimosa folds leaves to deter predators.","ms":"Mimosa lipat daun untuk halang pemangsa."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which amphibian produces tetrodotoxin as a defense?","ms":"Amfibia manakah menghasilkan tetrodotoksin untuk pertahanan?"},
-        "answers": [{"en":"Rough-skinned Newt","ms":"Newt Kulit Kasar"},{"en":"Frog","ms":"Katak"},{"en":"Salamander","ms":"Salamander"},{"en":"Toad","ms":"Katak Tembam"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Tetrodotoxin is a potent neurotoxin used to deter predators.","ms":"Tetrodotoksin ialah neurotoksin kuat untuk menghalang pemangsa."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which animal can survive being decapitated and continue moving?","ms":"Haiwan manakah boleh hidup tanpa kepala dan terus bergerak?"},
-        "answers": [{"en":"Cockroach","ms":"Lipeng"},{"en":"Spider","ms":"Labah-labah"},{"en":"Lizard","ms":"Cicak"},{"en":"Centipede","ms":"Lipan"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Cockroaches have decentralized nerves that allow movement after decapitation.","ms":"Lipeng mempunyai saraf tidak berpusat membolehkan gerakan selepas dipenggal kepala."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which sea creature can clone itself by fragmentation?","ms":"Haiwan laut manakah boleh menyalin dirinya melalui pemecahan?"},
-        "answers": [{"en":"Starfish","ms":"Bintang Laut"},{"en":"Sea Cucumber","ms":"Timun Laut"},{"en":"Coral","ms":"Terumbu Karang"},{"en":"Sea Anemone","ms":"Anemon Laut"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Starfish can regenerate entire body parts through fragmentation.","ms":"Bintang laut boleh menumbuhkan semula bahagian badan melalui pemecahan."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which animal has the fastest nerve conduction?","ms":"Haiwan manakah mempunyai penghantaran saraf terpantas?"},
-        "answers": [{"en":"Squid","ms":"Sotong"},{"en":"Cat","ms":"Kucing"},{"en":"Human","ms":"Manusia"},{"en":"Frog","ms":"Katak"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Giant axons in squid allow rapid nerve signaling.","ms":"Axon gergasi sotong membolehkan isyarat saraf cepat."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which bird has the largest wingspan?","ms":"Burung manakah mempunyai julat sayap paling besar?"},
-        "answers": [{"en":"Wandering Albatross","ms":"Albatros Pengembara"},{"en":"Eagle","ms":"Helang"},{"en":"Condor","ms":"Condor"},{"en":"Pelican","ms":"Pelikan"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Its wingspan can reach up to 3.5 meters.","ms":"Julat sayap boleh mencecah 3.5 meter."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which plant is carnivorous and grows in nutrient-poor soil?","ms":"Tumbuhan manakah yang karnivor dan hidup di tanah miskin nutrien?"},
-        "answers": [{"en":"Pitcher Plant","ms":"Tumbuhan Pitcher"},{"en":"Sunflower","ms":"Bunga Matahari"},{"en":"Fern","ms":"Paku"},{"en":"Moss","ms":"Lumut"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Pitcher plants trap insects to gain nitrogen.","ms":"Tumbuhan Pitcher perangkap serangga untuk dapatkan nitrogen."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which animal is known for 'immortal' regeneration?","ms":"Haiwan manakah terkenal dengan penjanaan semula 'abadi'?"},
-        "answers": [{"en":"Hydra","ms":"Hydra"},{"en":"Planaria","ms":"Planaria"},{"en":"Starfish","ms":"Bintang Laut"},{"en":"Jellyfish","ms":"Ubur-ubur"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Hydra can reproduce asexually and regenerate indefinitely.","ms":"Hydra boleh membiak secara aseksual dan menumbuhkan semula tanpa had."},
-        "active": true
-    },
-    {
-        "difficulty": "medium",
-        "question": {"en":"Which animal can survive freezing temperatures for years?","ms":"Haiwan manakah boleh hidup dalam suhu beku bertahun-tahun?"},
-        "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Frog","ms":"Katak"},{"en":"Salamander","ms":"Salamander"},{"en":"Ant","ms":"Semut"}],
-        "correctIndex": 0,
-        "funFact": {"en":"Tardigrades can survive desiccation and freezing for years.","ms":"Tardigrade boleh hidup dalam kering dan beku bertahun-tahun."},
-        "active": true
-    }
 ]
