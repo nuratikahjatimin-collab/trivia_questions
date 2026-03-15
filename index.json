@@ -1,14 +1,14 @@
 [
   {
-    "id": "animal_and_nature_oddities.json",
+    "id": "animal_and_nature_oddities",
     "name": {"en": "Animals", "ms": "Haiwan"}
   },
   {
-    "id": "facts_that_sound_fake_but_are_true.json",
+    "id": "facts_that_sound_fake_but_are_true",
     "name": {"en": "Science", "ms": "Sains"}
   },
   {
-    "id": "obscure_biology.json",
+    "id": "obscure_biology",
     "name": {"en": "Space", "ms": "Angkasa"}
   }
 ]
