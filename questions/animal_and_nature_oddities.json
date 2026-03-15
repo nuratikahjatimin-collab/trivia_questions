@@ -1,486 +1,107 @@
 [
   {
     "difficulty": "easy",
-    "question": {"en":"Which animal can sleep for up to three years?","ms":"Haiwan manakah boleh tidur sehingga tiga tahun?"},
-    "answers": [{"en":"Snail","ms":"Siput"},{"en":"Frog","ms":"Katak"},{"en":"Bear","ms":"Beruang"},{"en":"Lizard","ms":"Cicak"}],
+    "question": {"en":"Which animal can taste with its feet?","ms":"Haiwan manakah boleh merasa dengan kakinya?"},
+    "answers": [{"en":"Butterfly","ms":"Rama-rama"},{"en":"Cat","ms":"Kucing"},{"en":"Elephant","ms":"Gajah"},{"en":"Shark","ms":"Jerung"}],
     "correctIndex": 0,
-    "funFact": {"en":"Some land snails can hibernate for years during dry conditions.","ms":"Sesetengah siput darat boleh tidur panjang selama bertahun-tahun ketika keadaan kering."},
-    "active": true
+    "funFact": {"en":"Butterflies have taste sensors on their feet that help them find the right plants to lay eggs on.","ms":"Rama-rama mempunyai reseptor rasa pada kaki yang membantu mereka mencari tumbuhan sesuai untuk bertelur."}
   },
   {
     "difficulty": "easy",
-    "question": {"en":"Which animal has fingerprints almost identical to humans?","ms":"Haiwan manakah mempunyai cap jari hampir sama dengan manusia?"},
-    "answers": [{"en":"Koala","ms":"Koala"},{"en":"Chimpanzee","ms":"Simpanzi"},{"en":"Gorilla","ms":"Gorila"},{"en":"Sloth","ms":"Sloth"}],
+    "question": {"en":"Which bird is known for mimicking many sounds, including chainsaws and car alarms?","ms":"Burung manakah terkenal kerana meniru pelbagai bunyi termasuk gergaji dan penggera kereta?"},
+    "answers": [{"en":"Lyrebird","ms":"Burung Lyrebird"},{"en":"Eagle","ms":"Helang"},{"en":"Penguin","ms":"Penguin"},{"en":"Swan","ms":"Angsa"}],
     "correctIndex": 0,
-    "funFact": {"en":"Koala fingerprints are so similar to humans they can confuse forensic investigators.","ms":"Cap jari koala sangat mirip manusia sehingga boleh mengelirukan penyiasat forensik."},
-    "active": true
+    "funFact": {"en":"The superb lyrebird can imitate dozens of sounds from its environment with amazing accuracy.","ms":"Burung lyrebird superb boleh meniru puluhan bunyi persekitaran dengan sangat tepat."}
   },
   {
     "difficulty": "easy",
-    "question": {"en":"Which animal has three hearts?","ms":"Haiwan manakah mempunyai tiga jantung?"},
-    "answers": [{"en":"Octopus","ms":"Gurita"},{"en":"Shark","ms":"Hiu"},{"en":"Dolphin","ms":"Lumba-lumba"},{"en":"Seal","ms":"Anjing Laut"}],
+    "question": {"en":"Which sea creature has three hearts?","ms":"Makhluk laut manakah mempunyai tiga jantung?"},
+    "answers": [{"en":"Octopus","ms":"Sotong kurita"},{"en":"Starfish","ms":"Tapak sulaiman"},{"en":"Jellyfish","ms":"Obor-obor"},{"en":"Seahorse","ms":"Kuda laut"}],
     "correctIndex": 0,
-    "funFact": {"en":"Two hearts pump blood to the gills while one pumps it to the body.","ms":"Dua jantung mengepam darah ke insang dan satu ke seluruh badan."},
-    "active": true
+    "funFact": {"en":"Octopuses have three hearts: two pump blood to the gills and one pumps it to the rest of the body.","ms":"Sotong kurita mempunyai tiga jantung: dua mengepam darah ke insang dan satu ke seluruh badan."}
   },
   {
     "difficulty": "easy",
-    "question": {"en":"Which bird can fly backwards?","ms":"Burung manakah boleh terbang ke belakang?"},
-    "answers": [{"en":"Hummingbird","ms":"Burung Hummingbird"},{"en":"Parrot","ms":"Burung Kakak Tua"},{"en":"Eagle","ms":"Helang"},{"en":"Sparrow","ms":"Burung Pipit"}],
+    "question": {"en":"Which mammal is the only one capable of true flight?","ms":"Mamalia manakah satu-satunya yang boleh terbang dengan sebenar-benarnya?"},
+    "answers": [{"en":"Bat","ms":"Kelawar"},{"en":"Flying squirrel","ms":"Tupai terbang"},{"en":"Sugar glider","ms":"Sugar glider"},{"en":"Colugo","ms":"Kubung"}],
     "correctIndex": 0,
-    "funFact": {"en":"Hummingbirds are the only birds capable of true backward flight.","ms":"Hummingbird satu-satunya burung yang boleh terbang ke belakang."},
-    "active": true
+    "funFact": {"en":"Bats are the only mammals capable of sustained powered flight, unlike gliding mammals.","ms":"Kelawar ialah satu-satunya mamalia yang boleh terbang secara aktif, tidak seperti mamalia yang hanya meluncur."}
   },
   {
     "difficulty": "easy",
-    "question": {"en":"Which animal can change color to blend into its surroundings?","ms":"Haiwan manakah boleh menukar warna untuk menyamar dengan persekitaran?"},
-    "answers": [{"en":"Chameleon","ms":"Chameleon"},{"en":"Rabbit","ms":"Arnab"},{"en":"Fox","ms":"Rubah"},{"en":"Wolf","ms":"Serigala"}],
+    "question": {"en":"Which animal is famous for playing dead to escape predators?","ms":"Haiwan manakah terkenal kerana berpura-pura mati untuk melarikan diri daripada pemangsa?"},
+    "answers": [{"en":"Opossum","ms":"Opossum"},{"en":"Rabbit","ms":"Arnab"},{"en":"Deer","ms":"Rusa"},{"en":"Otter","ms":"Memerang"}],
     "correctIndex": 0,
-    "funFact": {"en":"Chameleons change color using special skin cells called chromatophores.","ms":"Chameleon menukar warna menggunakan sel kulit khas dipanggil kromatofor."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal can regrow an entire arm if it loses one?","ms":"Haiwan manakah boleh menumbuhkan semula lengan jika hilang?"},
-    "answers": [{"en":"Starfish","ms":"Bintang Laut"},{"en":"Crab","ms":"Ketam"},{"en":"Fish","ms":"Ikan"},{"en":"Frog","ms":"Katak"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Starfish can regenerate limbs and sometimes an entire body.","ms":"Bintang laut boleh menumbuhkan semula anggota badan malah seluruh badan."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal has the longest migration of any mammal?","ms":"Haiwan manakah mempunyai migrasi paling jauh antara mamalia?"},
-    "answers": [{"en":"Gray Whale","ms":"Paus Kelabu"},{"en":"Elephant","ms":"Gajah"},{"en":"Wolf","ms":"Serigala"},{"en":"Seal","ms":"Anjing Laut"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Gray whales migrate up to 20,000 km each year.","ms":"Paus kelabu berhijrah sehingga 20,000 km setiap tahun."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which insect is strong enough to carry many times its body weight?","ms":"Serangga manakah cukup kuat untuk membawa berat berkali ganda daripada badannya?"},
-    "answers": [{"en":"Ant","ms":"Semut"},{"en":"Butterfly","ms":"Kupu-kupu"},{"en":"Bee","ms":"Lebah"},{"en":"Beetle","ms":"Kumbang"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Ants can carry up to 50 times their own body weight.","ms":"Semut boleh membawa sehingga 50 kali berat badannya."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which fish can generate electricity?","ms":"Ikan manakah boleh menghasilkan elektrik?"},
-    "answers": [{"en":"Electric Eel","ms":"Belut Elektrik"},{"en":"Tuna","ms":"Ikan Tuna"},{"en":"Salmon","ms":"Salmon"},{"en":"Cod","ms":"Ikan Kod"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Electric eels can generate shocks of up to 600 volts.","ms":"Belut elektrik boleh menghasilkan kejutan sehingga 600 volt."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal has the longest neck?","ms":"Haiwan manakah mempunyai leher paling panjang?"},
-    "answers": [{"en":"Giraffe","ms":"Zirafah"},{"en":"Camel","ms":"Unta"},{"en":"Horse","ms":"Kuda"},{"en":"Ostrich","ms":"Burung Unta"}],
-    "correctIndex": 0,
-    "funFact": {"en":"A giraffe's neck can be about 2 meters long.","ms":"Leher zirafah boleh sepanjang kira-kira 2 meter."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal has the largest eyes of any land animal?","ms":"Haiwan manakah mempunyai mata terbesar antara haiwan darat?"},
-    "answers": [{"en":"Ostrich","ms":"Burung Unta"},{"en":"Horse","ms":"Kuda"},{"en":"Deer","ms":"Rusa"},{"en":"Camel","ms":"Unta"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Ostrich eyes are bigger than their brains.","ms":"Mata burung unta lebih besar daripada otaknya."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal can run the fastest on land?","ms":"Haiwan manakah boleh berlari paling laju di darat?"},
-    "answers": [{"en":"Cheetah","ms":"Cheetah"},{"en":"Lion","ms":"Singa"},{"en":"Horse","ms":"Kuda"},{"en":"Tiger","ms":"Harimau"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Cheetahs can reach speeds up to 100 km/h.","ms":"Cheetah boleh mencapai kelajuan sehingga 100 km/j."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal can survive the longest without drinking water?","ms":"Haiwan manakah boleh hidup paling lama tanpa minum air?"},
-    "answers": [{"en":"Kangaroo Rat","ms":"Tikus Kangaroo"},{"en":"Camel","ms":"Unta"},{"en":"Lizard","ms":"Cicak"},{"en":"Snake","ms":"Ular"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Kangaroo rats get almost all their water from the seeds they eat.","ms":"Tikus kangaroo mendapat hampir semua air daripada biji yang dimakan."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal can live both in water and on land?","ms":"Haiwan manakah boleh hidup di air dan di darat?"},
-    "answers": [{"en":"Frog","ms":"Katak"},{"en":"Dog","ms":"Anjing"},{"en":"Cat","ms":"Kucing"},{"en":"Horse","ms":"Kuda"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Frogs are amphibians and spend parts of their lives in water and on land.","ms":"Katak ialah amfibia dan hidup sebahagian masa di air dan darat."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal has the thickest fur of any mammal?","ms":"Haiwan manakah mempunyai bulu paling tebal antara mamalia?"},
-    "answers": [{"en":"Sea Otter","ms":"Memerang Laut"},{"en":"Polar Bear","ms":"Beruang Kutub"},{"en":"Seal","ms":"Anjing Laut"},{"en":"Fox","ms":"Rubah"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Sea otters have up to 1 million hairs per square inch.","ms":"Memerang laut mempunyai sehingga 1 juta helai bulu setiap inci persegi."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal has the longest lifespan of any mammal?","ms":"Haiwan manakah mempunyai jangka hayat paling panjang antara mamalia?"},
-    "answers": [{"en":"Bowhead Whale","ms":"Paus Bowhead"},{"en":"Elephant","ms":"Gajah"},{"en":"Horse","ms":"Kuda"},{"en":"Human","ms":"Manusia"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Bowhead whales can live for more than 200 years.","ms":"Paus Bowhead boleh hidup lebih 200 tahun."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which bird is the largest living bird?","ms":"Burung manakah yang terbesar hidup hari ini?"},
-    "answers": [{"en":"Ostrich","ms":"Burung Unta"},{"en":"Eagle","ms":"Helang"},{"en":"Swan","ms":"Angsa"},{"en":"Pelican","ms":"Pelikan"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Ostriches can grow over 2.7 meters tall.","ms":"Burung unta boleh membesar lebih 2.7 meter tinggi."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal has the strongest bite force of any living animal?","ms":"Haiwan manakah mempunyai daya gigitan paling kuat antara haiwan hidup?"},
-    "answers": [{"en":"Saltwater Crocodile","ms":"Buaya Air Masin"},{"en":"Lion","ms":"Singa"},{"en":"Shark","ms":"Hiu"},{"en":"Tiger","ms":"Harimau"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Saltwater crocodiles have the strongest bite recorded in animals.","ms":"Buaya air masin mempunyai gigitan paling kuat pernah direkodkan."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which animal is known for playing dead to escape predators?","ms":"Haiwan manakah terkenal berpura-pura mati untuk lari dari pemangsa?"},
-    "answers": [{"en":"Opossum","ms":"Opossum"},{"en":"Fox","ms":"Rubah"},{"en":"Rabbit","ms":"Arnab"},{"en":"Raccoon","ms":"Rakoon"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Opossums can remain motionless and appear dead when threatened.","ms":"Opossum boleh tidak bergerak dan kelihatan mati apabila terancam."},
-    "active": true
-  },
-  {
-    "difficulty": "easy",
-    "question": {"en":"Which plant closes its leaves when touched?","ms":"Tumbuhan manakah menutup daunnya apabila disentuh?"},
-    "answers": [{"en":"Mimosa pudica","ms":"Mimosa pudica"},{"en":"Rose","ms":"Ros"},{"en":"Sunflower","ms":"Bunga Matahari"},{"en":"Fern","ms":"Paku"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Mimosa pudica quickly folds its leaves as a defense mechanism.","ms":"Mimosa pudica melipat daunnya dengan cepat sebagai mekanisme pertahanan."},
-    "active": true
-  }
-]
-[
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which animal can survive being frozen and thawed back to life?","ms":"Haiwan manakah boleh hidup semula selepas dibekukan dan dicairkan?"},
-    "answers": [{"en":"Wood Frog","ms":"Katak Kayu"},{"en":"Tree Frog","ms":"Katak Pokok"},{"en":"Bullfrog","ms":"Katak Lembu"},{"en":"Poison Dart Frog","ms":"Katak Beracun"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Wood frogs can survive winter with ice forming inside their bodies.","ms":"Katak kayu boleh hidup sepanjang musim sejuk walaupun ais terbentuk dalam badannya."},
-    "active": true
+    "funFact": {"en":"Opossums enter an involuntary state that makes them appear dead when threatened.","ms":"Opossum boleh memasuki keadaan tidak sedarkan diri yang membuatkannya kelihatan mati apabila terancam."}
   },
   {
     "difficulty": "medium",
-    "question": {"en":"Which marine animal is considered biologically immortal because it can revert to its juvenile form?","ms":"Haiwan laut manakah dianggap hampir abadi kerana boleh kembali ke bentuk muda?"},
-    "answers": [{"en":"Turritopsis dohrnii","ms":"Turritopsis dohrnii"},{"en":"Moon Jellyfish","ms":"Obor-obor Bulan"},{"en":"Sea Anemone","ms":"Anemon Laut"},{"en":"Box Jellyfish","ms":"Obor-obor Kotak"}],
+    "question": {"en":"Which animal has the largest eyes of any animal relative to body size?","ms":"Haiwan manakah mempunyai mata terbesar berbanding saiz badannya?"},
+    "answers": [{"en":"Tarsier","ms":"Tarsier"},{"en":"Owl","ms":"Burung hantu"},{"en":"Lemur","ms":"Lemur"},{"en":"Bush baby","ms":"Galago"}],
     "correctIndex": 0,
-    "funFact": {"en":"This jellyfish can revert to its polyp stage and start its life cycle again.","ms":"Obor-obor ini boleh kembali ke tahap polip dan memulakan semula kitaran hidupnya."},
-    "active": true
+    "funFact": {"en":"A tarsier’s eyes are each about the same size as its brain.","ms":"Setiap mata tarsier hampir sama besar dengan otaknya."}
   },
   {
     "difficulty": "medium",
-    "question": {"en":"Which animal has the largest brain relative to body size among invertebrates?","ms":"Haiwan manakah mempunyai otak terbesar berbanding saiz badan antara invertebrata?"},
-    "answers": [{"en":"Octopus","ms":"Gurita"},{"en":"Squid","ms":"Sotong"},{"en":"Crab","ms":"Ketam"},{"en":"Lobster","ms":"Lobster"}],
+    "question": {"en":"Which plant is known for snapping shut to trap insects?","ms":"Tumbuhan manakah terkenal kerana menutup dengan pantas untuk menangkap serangga?"},
+    "answers": [{"en":"Venus flytrap","ms":"Perangkap lalat Venus"},{"en":"Pitcher plant","ms":"Pokok periuk kera"},{"en":"Sundew","ms":"Sundew"},{"en":"Cactus","ms":"Kaktus"}],
     "correctIndex": 0,
-    "funFact": {"en":"Octopuses are extremely intelligent and can solve puzzles.","ms":"Gurita sangat pintar dan boleh menyelesaikan teka-teki."},
-    "active": true
+    "funFact": {"en":"The Venus flytrap closes its trap in less than a second when trigger hairs are touched.","ms":"Perangkap lalat Venus boleh menutup dalam kurang daripada satu saat apabila rambut sensornya disentuh."}
   },
   {
     "difficulty": "medium",
-    "question": {"en":"Which bird has the largest wingspan of any living bird?","ms":"Burung manakah mempunyai rentang sayap terbesar antara burung hidup?"},
-    "answers": [{"en":"Wandering Albatross","ms":"Albatros Pengembara"},{"en":"Condor","ms":"Condor"},{"en":"Eagle","ms":"Helang"},{"en":"Pelican","ms":"Pelikan"}],
+    "question": {"en":"Which animal can regenerate an entire limb?","ms":"Haiwan manakah boleh menumbuhkan semula keseluruhan anggota badan?"},
+    "answers": [{"en":"Axolotl","ms":"Axolotl"},{"en":"Snake","ms":"Ular"},{"en":"Turtle","ms":"Penyu"},{"en":"Hedgehog","ms":"Landak"}],
     "correctIndex": 0,
-    "funFact": {"en":"The wandering albatross can have a wingspan over 3.5 meters.","ms":"Albatros pengembara boleh mempunyai rentang sayap lebih 3.5 meter."},
-    "active": true
+    "funFact": {"en":"Axolotls can regenerate limbs, spinal cord, heart tissue, and even parts of their brain.","ms":"Axolotl boleh menumbuhkan semula anggota badan, saraf tunjang, tisu jantung dan sebahagian otak."}
   },
   {
     "difficulty": "medium",
-    "question": {"en":"Which animal has the longest recorded tongue relative to body size?","ms":"Haiwan manakah mempunyai lidah terpanjang berbanding saiz badan?"},
-    "answers": [{"en":"Chameleon","ms":"Chameleon"},{"en":"Frog","ms":"Katak"},{"en":"Anteater","ms":"Tenggiling Semut"},{"en":"Snake","ms":"Ular"}],
+    "question": {"en":"Which bird lays the largest eggs relative to its body size?","ms":"Burung manakah bertelur paling besar berbanding saiz badannya?"},
+    "answers": [{"en":"Kiwi","ms":"Kiwi"},{"en":"Ostrich","ms":"Burung unta"},{"en":"Eagle","ms":"Helang"},{"en":"Pelican","ms":"Pelikán"}],
     "correctIndex": 0,
-    "funFact": {"en":"A chameleon's tongue can be longer than its entire body.","ms":"Lidah chameleon boleh lebih panjang daripada seluruh badannya."},
-    "active": true
+    "funFact": {"en":"A kiwi egg can weigh up to 20% of the female’s body weight.","ms":"Telur kiwi boleh mencapai sehingga 20% daripada berat badan betina."}
   },
   {
     "difficulty": "medium",
-    "question": {"en":"Which mammal can glide through the air using a membrane between its limbs?","ms":"Mamalia manakah boleh meluncur di udara menggunakan membran antara anggota badan?"},
-    "answers": [{"en":"Flying Squirrel","ms":"Tupai Terbang"},{"en":"Bat","ms":"Kelawar"},{"en":"Sugar Glider","ms":"Sugar Glider"},{"en":"Colugo","ms":"Kubung"}],
-    "correctIndex": 3,
-    "funFact": {"en":"The colugo can glide over 100 meters between trees.","ms":"Kubung boleh meluncur lebih 100 meter antara pokok."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which animal has blood that is naturally blue due to copper-based molecules?","ms":"Haiwan manakah mempunyai darah biru kerana molekul berasaskan tembaga?"},
-    "answers": [{"en":"Horseshoe Crab","ms":"Ketam Ladam"},{"en":"Blue Crab","ms":"Ketam Biru"},{"en":"Jellyfish","ms":"Obor-obor"},{"en":"Lobster","ms":"Lobster"}],
+    "question": {"en":"Which sea animal is known to be biologically immortal under the right conditions?","ms":"Haiwan laut manakah dikenali sebagai hampir abadi secara biologi dalam keadaan tertentu?"},
+    "answers": [{"en":"Turritopsis dohrnii jellyfish","ms":"Obor-obor Turritopsis dohrnii"},{"en":"Sea cucumber","ms":"Timun laut"},{"en":"Coral","ms":"Karang"},{"en":"Sea anemone","ms":"Anemon laut"}],
     "correctIndex": 0,
-    "funFact": {"en":"Horseshoe crab blood is used in medical testing for bacteria.","ms":"Darah ketam ladam digunakan dalam ujian perubatan untuk mengesan bakteria."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which desert animal can survive losing up to 45% of its body water?","ms":"Haiwan gurun manakah boleh hidup walaupun kehilangan 45% air badan?"},
-    "answers": [{"en":"Camel","ms":"Unta"},{"en":"Kangaroo Rat","ms":"Tikus Kangaroo"},{"en":"Fennec Fox","ms":"Rubah Fennec"},{"en":"Desert Tortoise","ms":"Kura-kura Gurun"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Most mammals would die after losing just 15% of body water.","ms":"Kebanyakan mamalia akan mati selepas kehilangan hanya 15% air badan."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which insect has the fastest wingbeat among insects?","ms":"Serangga manakah mempunyai kepakan sayap paling laju antara serangga?"},
-    "answers": [{"en":"Midge","ms":"Midge"},{"en":"Bee","ms":"Lebah"},{"en":"Mosquito","ms":"Nyamuk"},{"en":"Dragonfly","ms":"Pepatung"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Some midges can beat their wings over 1,000 times per second.","ms":"Sesetengah midge boleh mengepakkan sayap lebih 1,000 kali sesaat."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which animal has the ability to rotate its head up to 270 degrees?","ms":"Haiwan manakah boleh memusingkan kepala sehingga 270 darjah?"},
-    "answers": [{"en":"Owl","ms":"Burung Hantu"},{"en":"Falcon","ms":"Falcon"},{"en":"Crow","ms":"Gagak"},{"en":"Vulture","ms":"Burung Nasar"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Owls have special blood vessels to prevent brain damage during head rotation.","ms":"Burung hantu mempunyai saluran darah khas untuk melindungi otak semasa memusingkan kepala."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which animal produces the loudest sound relative to its body size?","ms":"Haiwan manakah menghasilkan bunyi paling kuat berbanding saiz badannya?"},
-    "answers": [{"en":"Pistol Shrimp","ms":"Udang Pistol"},{"en":"Cicada","ms":"Cicada"},{"en":"Cricket","ms":"Cengkerik"},{"en":"Frog","ms":"Katak"}],
-    "correctIndex": 0,
-    "funFact": {"en":"The pistol shrimp snaps its claw to create a shockwave.","ms":"Udang pistol mengetuk penyepitnya untuk menghasilkan gelombang kejutan."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which animal has square-shaped poop?","ms":"Haiwan manakah mempunyai najis berbentuk segi empat?"},
-    "answers": [{"en":"Wombat","ms":"Wombat"},{"en":"Koala","ms":"Koala"},{"en":"Kangaroo","ms":"Kangaroo"},{"en":"Tasmanian Devil","ms":"Syaitan Tasmania"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Wombats produce cube-shaped droppings that prevent them from rolling away.","ms":"Wombat menghasilkan najis berbentuk kiub supaya tidak bergolek."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which animal can detect electrical fields to locate prey?","ms":"Haiwan manakah boleh mengesan medan elektrik untuk mencari mangsa?"},
-    "answers": [{"en":"Shark","ms":"Hiu"},{"en":"Tuna","ms":"Tuna"},{"en":"Barracuda","ms":"Barracuda"},{"en":"Mackerel","ms":"Makarel"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Sharks use special organs called ampullae of Lorenzini.","ms":"Hiu menggunakan organ khas dipanggil ampullae of Lorenzini."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which mammal is capable of true sustained flight?","ms":"Mamalia manakah mampu terbang secara sebenar?"},
-    "answers": [{"en":"Bat","ms":"Kelawar"},{"en":"Flying Squirrel","ms":"Tupai Terbang"},{"en":"Sugar Glider","ms":"Sugar Glider"},{"en":"Colugo","ms":"Kubung"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Bats are the only mammals capable of true powered flight.","ms":"Kelawar ialah satu-satunya mamalia yang boleh terbang secara sebenar."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which animal can survive extreme radiation levels far beyond humans?","ms":"Haiwan manakah boleh hidup dalam radiasi jauh lebih tinggi daripada manusia?"},
-    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Cockroach","ms":"Lipas"},{"en":"Ant","ms":"Semut"},{"en":"Beetle","ms":"Kumbang"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Tardigrades can survive radiation, vacuum, and extreme temperatures.","ms":"Tardigrade boleh hidup dalam radiasi, vakum, dan suhu ekstrem."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which plant is famous for trapping insects using snap-like leaves?","ms":"Tumbuhan manakah terkenal memerangkap serangga menggunakan daun seperti perangkap?"},
-    "answers": [{"en":"Venus Flytrap","ms":"Perangkap Lalat Venus"},{"en":"Pitcher Plant","ms":"Pokok Periuk Kera"},{"en":"Sundew","ms":"Sundew"},{"en":"Butterwort","ms":"Butterwort"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Venus flytraps snap shut in less than a second.","ms":"Perangkap lalat Venus boleh menutup dalam masa kurang satu saat."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which sea creature has the largest eyes in the animal kingdom?","ms":"Makhluk laut manakah mempunyai mata terbesar dalam dunia haiwan?"},
-    "answers": [{"en":"Colossal Squid","ms":"Sotong Gergasi"},{"en":"Giant Squid","ms":"Sotong Raksasa"},{"en":"Blue Whale","ms":"Paus Biru"},{"en":"Shark","ms":"Hiu"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Colossal squid eyes can be about 27 cm across.","ms":"Mata sotong gergasi boleh mencapai kira-kira 27 cm."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which bird is known for mimicking chainsaws, alarms, and other sounds?","ms":"Burung manakah terkenal meniru bunyi gergaji, penggera, dan bunyi lain?"},
-    "answers": [{"en":"Lyrebird","ms":"Burung Lyrebird"},{"en":"Crow","ms":"Gagak"},{"en":"Parrot","ms":"Kakak Tua"},{"en":"Magpie","ms":"Magpie"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Lyrebirds can mimic dozens of natural and artificial sounds.","ms":"Burung lyrebird boleh meniru puluhan bunyi semula jadi dan buatan."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which animal can stretch its stomach to eat prey much larger than itself?","ms":"Haiwan manakah boleh mengembangkan perut untuk makan mangsa lebih besar daripadanya?"},
-    "answers": [{"en":"Snake","ms":"Ular"},{"en":"Frog","ms":"Katak"},{"en":"Lizard","ms":"Cicak"},{"en":"Crocodile","ms":"Buaya"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Snakes have flexible jaws that allow them to swallow large prey.","ms":"Ular mempunyai rahang fleksibel untuk menelan mangsa besar."},
-    "active": true
-  },
-  {
-    "difficulty": "medium",
-    "question": {"en":"Which fish can climb waterfalls using a suction-like mouth?","ms":"Ikan manakah boleh memanjat air terjun menggunakan mulut seperti penyedut?"},
-    "answers": [{"en":"Hawaiian Goby","ms":"Goby Hawaii"},{"en":"Catfish","ms":"Ikan Keli"},{"en":"Carp","ms":"Ikan Kap"},{"en":"Tilapia","ms":"Tilapia"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Some Hawaiian gobies climb waterfalls to reach safe upstream habitats.","ms":"Sesetengah goby Hawaii memanjat air terjun untuk sampai ke habitat selamat di hulu."},
-    "active": true
-  }
-]
-[
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which parasite can control the behavior of ants, making them climb plants before dying?","ms":"Parasit manakah boleh mengawal tingkah laku semut sehingga memanjat tumbuhan sebelum mati?"},
-    "answers": [{"en":"Ophiocordyceps unilateralis","ms":"Ophiocordyceps unilateralis"},{"en":"Cordyceps militaris","ms":"Cordyceps militaris"},{"en":"Aspergillus fumigatus","ms":"Aspergillus fumigatus"},{"en":"Penicillium chrysogenum","ms":"Penicillium chrysogenum"}],
-    "correctIndex": 0,
-    "funFact": {"en":"This fungus infects ants and forces them to climb vegetation before releasing spores.","ms":"Kulat ini menjangkiti semut dan memaksanya memanjat tumbuhan sebelum melepaskan spora."},
-    "active": true
+    "funFact": {"en":"This jellyfish can revert to its juvenile stage after reaching adulthood.","ms":"Obor-obor ini boleh kembali ke peringkat muda selepas mencapai peringkat dewasa."}
   },
   {
     "difficulty": "hard",
-    "question": {"en":"Which deep-sea fish has a transparent head allowing it to see upward through its skull?","ms":"Ikan laut dalam manakah mempunyai kepala lutsinar yang membolehkannya melihat melalui tengkoraknya?"},
-    "answers": [{"en":"Barreleye Fish","ms":"Ikan Barreleye"},{"en":"Anglerfish","ms":"Ikan Pemancing"},{"en":"Dragonfish","ms":"Ikan Naga"},{"en":"Lanternfish","ms":"Ikan Tanglung"}],
+    "question": {"en":"Which animal has the fastest recorded strike in the animal kingdom?","ms":"Haiwan manakah mempunyai serangan terpantas yang pernah direkodkan dalam dunia haiwan?"},
+    "answers": [{"en":"Mantis shrimp","ms":"Udang mantis"},{"en":"Peregrine falcon","ms":"Helang peregrine"},{"en":"Cheetah","ms":"Cheetah"},{"en":"Swordfish","ms":"Ikan todak"}],
     "correctIndex": 0,
-    "funFact": {"en":"The barreleye fish has tubular eyes inside a transparent dome.","ms":"Ikan barreleye mempunyai mata berbentuk tiub di dalam kubah lutsinar."},
-    "active": true
+    "funFact": {"en":"The mantis shrimp’s punch is so fast it can create tiny shockwaves and flashes of light underwater.","ms":"Tumbukan udang mantis sangat pantas sehingga boleh menghasilkan gelombang kejutan dan kilatan cahaya kecil di dalam air."}
   },
   {
     "difficulty": "hard",
-    "question": {"en":"Which animal can survive complete dehydration by entering a state called cryptobiosis?","ms":"Haiwan manakah boleh hidup selepas kehilangan hampir semua air badan melalui keadaan dipanggil kriptobiosis?"},
-    "answers": [{"en":"Tardigrade","ms":"Tardigrade"},{"en":"Rotifer","ms":"Rotifer"},{"en":"Nematode","ms":"Nematod"},{"en":"Brine Shrimp","ms":"Udang Air Masin"}],
+    "question": {"en":"Which desert animal can survive without drinking water for its entire life?","ms":"Haiwan gurun manakah boleh hidup tanpa minum air sepanjang hayatnya?"},
+    "answers": [{"en":"Kangaroo rat","ms":"Tikus kanggaru"},{"en":"Fennec fox","ms":"Musang fennec"},{"en":"Camel","ms":"Unta"},{"en":"Desert tortoise","ms":"Kura-kura gurun"}],
     "correctIndex": 0,
-    "funFact": {"en":"Tardigrades can lose almost all body water and revive years later.","ms":"Tardigrade boleh kehilangan hampir semua air badan dan hidup semula bertahun kemudian."},
-    "active": true
+    "funFact": {"en":"Kangaroo rats get nearly all the water they need from the seeds they eat.","ms":"Tikus kanggaru mendapat hampir semua air yang diperlukan daripada biji yang dimakannya."}
   },
   {
     "difficulty": "hard",
-    "question": {"en":"Which animal can detach and regrow its tail as a defense mechanism?","ms":"Haiwan manakah boleh memutuskan ekornya dan menumbuhkan semula sebagai pertahanan?"},
-    "answers": [{"en":"Gecko","ms":"Gecko"},{"en":"Snake","ms":"Ular"},{"en":"Frog","ms":"Katak"},{"en":"Salamander","ms":"Salamander"}],
+    "question": {"en":"Which organism is considered one of the largest living structures on Earth?","ms":"Organisma manakah dianggap antara struktur hidup terbesar di Bumi?"},
+    "answers": [{"en":"Honey fungus (Armillaria)","ms":"Kulat madu (Armillaria)"},{"en":"Giant sequoia tree","ms":"Pokok sequoia gergasi"},{"en":"Blue whale","ms":"Paus biru"},{"en":"Great barrier coral","ms":"Karang penghalang besar"}],
     "correctIndex": 0,
-    "funFact": {"en":"The detached tail can wiggle to distract predators.","ms":"Ekor yang terputus boleh bergerak untuk mengalih perhatian pemangsa."},
-    "active": true
+    "funFact": {"en":"A honey fungus colony in Oregon covers more than 8 square kilometers, making it one of the largest organisms on Earth.","ms":"Koloni kulat madu di Oregon meliputi lebih 8 kilometer persegi, menjadikannya antara organisma terbesar di Bumi."}
   },
   {
     "difficulty": "hard",
-    "question": {"en":"Which marine worm can grow over 50 meters long, making it one of the longest animals on Earth?","ms":"Cacing laut manakah boleh membesar lebih 50 meter, menjadikannya antara haiwan terpanjang di Bumi?"},
-    "answers": [{"en":"Bootlace Worm","ms":"Cacing Bootlace"},{"en":"Bobbit Worm","ms":"Cacing Bobbit"},{"en":"Tube Worm","ms":"Cacing Tiub"},{"en":"Ribbon Worm","ms":"Cacing Pita"}],
+    "question": {"en":"Which animal has the highest blood pressure in the animal kingdom?","ms":"Haiwan manakah mempunyai tekanan darah tertinggi dalam dunia haiwan?"},
+    "answers": [{"en":"Giraffe","ms":"Zirafah"},{"en":"Elephant","ms":"Gajah"},{"en":"Blue whale","ms":"Paus biru"},{"en":"Horse","ms":"Kuda"}],
     "correctIndex": 0,
-    "funFact": {"en":"Bootlace worms are among the longest animals ever recorded.","ms":"Cacing bootlace antara haiwan terpanjang pernah direkodkan."},
-    "active": true
+    "funFact": {"en":"Giraffes have extremely high blood pressure to pump blood all the way up their long necks to the brain.","ms":"Zirafah mempunyai tekanan darah sangat tinggi untuk mengepam darah ke otak melalui lehernya yang panjang."}
   },
   {
     "difficulty": "hard",
-    "question": {"en":"Which fish uses a glowing lure to attract prey in the dark ocean depths?","ms":"Ikan manakah menggunakan umpan bercahaya untuk menarik mangsa di laut gelap?"},
-    "answers": [{"en":"Anglerfish","ms":"Ikan Pemancing"},{"en":"Lanternfish","ms":"Ikan Tanglung"},{"en":"Dragonfish","ms":"Ikan Naga"},{"en":"Hatchetfish","ms":"Ikan Kapak"}],
+    "question": {"en":"Which deep-sea creature can survive extreme pressure and near-freezing temperatures at ocean trenches?","ms":"Makhluk laut dalam manakah boleh hidup dalam tekanan ekstrem dan suhu hampir beku di parit lautan?"},
+    "answers": [{"en":"Yeti crab","ms":"Ketam Yeti"},{"en":"Anglerfish","ms":"Ikan pemancing"},{"en":"Blobfish","ms":"Ikan blob"},{"en":"Goblin shark","ms":"Jerung goblin"}],
     "correctIndex": 0,
-    "funFact": {"en":"The lure contains bioluminescent bacteria.","ms":"Umpan itu mengandungi bakteria bioluminesen."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which bird has the highest recorded flight altitude among birds?","ms":"Burung manakah mempunyai rekod terbang paling tinggi antara burung?"},
-    "answers": [{"en":"Rüppell's Griffon Vulture","ms":"Burung Nasar Rüppell"},{"en":"Golden Eagle","ms":"Helang Emas"},{"en":"Albatross","ms":"Albatros"},{"en":"Condor","ms":"Condor"}],
-    "correctIndex": 0,
-    "funFact": {"en":"This vulture has been recorded flying over 11,000 meters high.","ms":"Burung nasar ini pernah direkodkan terbang lebih 11,000 meter."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which plant can generate heat to melt snow around it?","ms":"Tumbuhan manakah boleh menghasilkan haba untuk mencairkan salji di sekelilingnya?"},
-    "answers": [{"en":"Skunk Cabbage","ms":"Kubis Skunk"},{"en":"Corpse Flower","ms":"Bunga Bangkai"},{"en":"Lotus","ms":"Teratai"},{"en":"Pitcher Plant","ms":"Pokok Periuk Kera"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Skunk cabbage produces heat through cellular respiration.","ms":"Kubis skunk menghasilkan haba melalui respirasi sel."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which animal has teeth strong enough to chew through bamboo all day?","ms":"Haiwan manakah mempunyai gigi cukup kuat untuk mengunyah buluh sepanjang hari?"},
-    "answers": [{"en":"Giant Panda","ms":"Panda Gergasi"},{"en":"Red Panda","ms":"Panda Merah"},{"en":"Koala","ms":"Koala"},{"en":"Beaver","ms":"Memerang"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Pandas spend up to 14 hours per day eating bamboo.","ms":"Panda boleh menghabiskan sehingga 14 jam sehari makan buluh."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which ocean predator can detect prey using pressure changes in water?","ms":"Pemangsa laut manakah boleh mengesan mangsa melalui perubahan tekanan air?"},
-    "answers": [{"en":"Shark","ms":"Hiu"},{"en":"Tuna","ms":"Tuna"},{"en":"Swordfish","ms":"Ikan Pedang"},{"en":"Barracuda","ms":"Barracuda"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Sharks use a sensory system called the lateral line.","ms":"Hiu menggunakan sistem deria dipanggil garis lateral."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which insect species spends up to 17 years underground before emerging?","ms":"Spesies serangga manakah menghabiskan sehingga 17 tahun di bawah tanah sebelum muncul?"},
-    "answers": [{"en":"Periodical Cicada","ms":"Cicada Berkala"},{"en":"Beetle","ms":"Kumbang"},{"en":"Dragonfly","ms":"Pepatung"},{"en":"Grasshopper","ms":"Belalang"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Some cicadas emerge in massive synchronized swarms.","ms":"Sesetengah cicada muncul dalam kawanan besar serentak."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which animal can rotate its eyes independently to look in two directions?","ms":"Haiwan manakah boleh memusingkan mata secara bebas ke dua arah berbeza?"},
-    "answers": [{"en":"Chameleon","ms":"Chameleon"},{"en":"Gecko","ms":"Gecko"},{"en":"Iguana","ms":"Iguana"},{"en":"Snake","ms":"Ular"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Chameleons can focus both eyes on the same target when hunting.","ms":"Chameleon boleh menumpukan kedua-dua mata pada satu sasaran ketika memburu."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which mammal lays eggs instead of giving birth to live young?","ms":"Mamalia manakah bertelur dan bukannya melahirkan anak hidup?"},
-    "answers": [{"en":"Platypus","ms":"Platipus"},{"en":"Echidna","ms":"Echidna"},{"en":"Kangaroo","ms":"Kangaroo"},{"en":"Koala","ms":"Koala"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Platypuses are monotremes, one of the few egg-laying mammals.","ms":"Platipus ialah monotrem, antara mamalia yang bertelur."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which creature is capable of producing its own light through bioluminescence?","ms":"Makhluk manakah boleh menghasilkan cahaya sendiri melalui bioluminesens?"},
-    "answers": [{"en":"Firefly","ms":"Kelip-kelip"},{"en":"Butterfly","ms":"Kupu-kupu"},{"en":"Bee","ms":"Lebah"},{"en":"Beetle","ms":"Kumbang"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Fireflies use light signals to attract mates.","ms":"Kelip-kelip menggunakan cahaya untuk menarik pasangan."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which sea creature can inflate its body to scare predators?","ms":"Makhluk laut manakah boleh mengembungkan badan untuk menakutkan pemangsa?"},
-    "answers": [{"en":"Pufferfish","ms":"Ikan Buntal"},{"en":"Triggerfish","ms":"Ikan Trigger"},{"en":"Blowfish","ms":"Ikan Blow"},{"en":"Lionfish","ms":"Ikan Singa"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Pufferfish inflate by rapidly swallowing water.","ms":"Ikan buntal mengembung dengan menelan air dengan cepat."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which animal has the longest recorded lifespan among reptiles?","ms":"Haiwan manakah mempunyai jangka hayat paling panjang antara reptilia?"},
-    "answers": [{"en":"Giant Tortoise","ms":"Kura-kura Gergasi"},{"en":"Komodo Dragon","ms":"Naga Komodo"},{"en":"Alligator","ms":"Buaya Amerika"},{"en":"Iguana","ms":"Iguana"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Some giant tortoises have lived over 150 years.","ms":"Sesetengah kura-kura gergasi hidup lebih 150 tahun."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which insect can walk on water using surface tension?","ms":"Serangga manakah boleh berjalan di atas air menggunakan tegangan permukaan?"},
-    "answers": [{"en":"Water Strider","ms":"Pepijat Air"},{"en":"Dragonfly","ms":"Pepatung"},{"en":"Mosquito","ms":"Nyamuk"},{"en":"Mayfly","ms":"Mayfly"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Water striders have hydrophobic legs that repel water.","ms":"Pepijat air mempunyai kaki hidrofobik yang menolak air."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which animal has a heart located in its head?","ms":"Haiwan manakah mempunyai jantung di dalam kepalanya?"},
-    "answers": [{"en":"Shrimp","ms":"Udang"},{"en":"Crab","ms":"Ketam"},{"en":"Lobster","ms":"Lobster"},{"en":"Krill","ms":"Krill"}],
-    "correctIndex": 0,
-    "funFact": {"en":"The shrimp's heart is located in the cephalothorax near its head.","ms":"Jantung udang terletak di bahagian cephalothorax berhampiran kepala."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which deep-sea creature can survive pressures hundreds of times greater than at the surface?","ms":"Makhluk laut dalam manakah boleh hidup dalam tekanan ratusan kali lebih tinggi daripada di permukaan?"},
-    "answers": [{"en":"Giant Amphipod","ms":"Amfipod Gergasi"},{"en":"Octopus","ms":"Gurita"},{"en":"Squid","ms":"Sotong"},{"en":"Jellyfish","ms":"Obor-obor"}],
-    "correctIndex": 0,
-    "funFact": {"en":"Deep-sea amphipods live in trenches deeper than 7,000 meters.","ms":"Amfipod laut dalam hidup di parit laut lebih dalam daripada 7,000 meter."},
-    "active": true
-  },
-  {
-    "difficulty": "hard",
-    "question": {"en":"Which plant emits a smell similar to rotting flesh to attract pollinators?","ms":"Tumbuhan manakah mengeluarkan bau seperti daging busuk untuk menarik pendebunga?"},
-    "answers": [{"en":"Corpse Flower","ms":"Bunga Bangkai"},{"en":"Lotus","ms":"Teratai"},{"en":"Rafflesia","ms":"Rafflesia"},{"en":"Pitcher Plant","ms":"Pokok Periuk Kera"}],
-    "correctIndex": 0,
-    "funFact": {"en":"The corpse flower produces one of the largest blooms in the world.","ms":"Bunga bangkai menghasilkan salah satu bunga terbesar di dunia."},
-    "active": true
+    "funFact": {"en":"Yeti crabs grow bacteria on their hairy claws and harvest them as food in deep-sea hydrothermal vents.","ms":"Ketam Yeti menumbuhkan bakteria pada penyepit berbulu mereka dan memakannya di kawasan ventilasi hidroterma laut dalam."}
   }
 ]
